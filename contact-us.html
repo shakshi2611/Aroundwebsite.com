@@ -503,42 +503,22 @@
     <div id="body">
         <section> 
 <link href="css/contact-us.css" rel="stylesheet" />
-<section class="contact-banner-bg about-page-header common-inner-header">
-    <div class="container">
-        <div class="row clearfix align-items-center">
-            <div class="col-md-12 col-lg-7">
-                <div class="row">
-                    <div class="col-md-6 col-lg-6 order-lg-1 order-md-1 order-2 order-sm-2">
-                        <div class="form-top-parent">
-                            <a href="void:javascript(0)" type="button" class="leave-toggle">Enquiry Form</a><a href="#" class="form-close">
-                                <i class="fa-solid fa-circle-xmark"></i>
-                            </a>
-                            <h5>Enquiry Form</h5> <form action="#" class="">
-                                <div class="form-group">
-                                    <select class="form-control" id="DdlproductProduct" name="Select Product"><option value="0">Please Select Product</option></select>
-                                </div>
-                                <div class="form-group row">
-                                    <div class="col-md-2"><img src="flags/India.png" id="imgFlag" style="width:30px" /></div>
-                                    <div class="col-md-10"><select class="form-control " id="Ddlcountrycode" name="Select Country"></select></div>
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" name="" placeholder="Type Name here" id="txtnameProduct" class="form-control" required="">
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" name="" placeholder="Type Mobile No here" id="txtmobileProduct" class="form-control cssOnlyNumeric" required="">
-                                </div>
-                                <div class="form-group">
-                                    <textarea id="txtMessageProduct" placeholder="Enter Your Message" class="form-control" rows="1" required=""></textarea>
-                                </div>
-                                <button type="submit" class="btn-submit" onclick="return SumitEnquiry('Product')">Submit</button>
-                            </form>
-                        </div>
-                    </div><div class="col-md-12 col-lg-6 order-lg-2 order-md-1 order-1 order-sm-1"> <div class="title-column"> <h1> Contact Us </h1> </div></div>
+<section class="contact-banner-bg about-page-header common-inner-header" style="padding: 20px 0;">
+    <div class="container" style="max-width: 1000px;">
+        <div class="row align-items-center">
+            <!-- Title Column -->
+            <div class="col-md-6 col-lg-4 d-flex align-items-center">
+                <div class="title-column">
+                    <h1 style="font-size: 24px; margin-bottom: 0;"> Home | Contact Us</h1>
                 </div>
-            </div><div class="col-md-12 col-lg-5 text-center"> <img src="img/contact-us-1.png" class="img-fluid banner-img" alt="Contact Us | Taksh It Solutions"> </div>
+            </div>
+           
         </div>
     </div>
-</section><div class="main">
+</section>
+
+
+<div class="main">
     <section class="it_support">
         <span class="pos_1">
         </span> <div class="container">
@@ -580,8 +560,59 @@
                 </div>
             </div>
         </div>
+        <section class="enquiry-section" style="margin-top: 100px; padding: 30px;">
+            <div class="container">
+                <div class="row">
+                    <!-- Enquiry Form Column -->
+                    <div class="col-md-6 enquiry-form-container">
+                        <h4 class="mb-2 contact-us-heading">Contact Us</h4>
+                        
+                        <form action="#" class="">
+                            <div class="form-group">
+                                <input type="text" name="" placeholder="Name " id="ptxtname" class="form-control" required="">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="" placeholder=" Mobile No " id="ptxtmobile" class="form-control cssOnlyNumeric" required="">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="" placeholder="Email" id="ptxtmobile" class="form-control cssOnlyNumeric" required="">
+                            </div>
+                            <div class="form-group">
+                                <textarea id="ptxtMessage" placeholder="Enter Your Message" class="form-control" rows="3" required=""></textarea>
+                            </div>
+                            <button type="submit" class="btn-submit DoNotShow" onclick="return SubmitEnquiry('Popup')">Submit</button>
+                        </form>
+                    </div>
+        
+                    <!-- Image Column -->
+                    <div class="col-md-6 text-center">
+                        <img src="img/enquery-form.svg" class="img-fluid" alt="Enquiry | Around-Tech Solutions">
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <style>
+        .enquiry-section {
+            background-color: #f9f9f9; /* Background color for the section */
+            padding: 30px; /* Padding around the section */
+            border-radius: 5px; /* Rounded corners for the section */
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+        }
+        
+        .contact-us-heading {
+            border-bottom: 2px solid #007BFF; /* Change to your preferred color */
+            padding-bottom: 10px; /* Space between the text and the line */
+            margin-bottom: 15px; /* Space below the heading */
+        }
+        
+        .enquiry-form-container {
+            padding: 20px; /* Padding for the form container */
+        }
+        </style>
+        
     </section>
-    <section class="whats_up_sx"> <div class="container"> <div class="row justify-content-center"> <div class="col-md-12 col-lg-5"> <div class="qr_box"> <div class="qr_scran_pic"> <a target="_blank" href="https://wa.me/+917460007036"> <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="19 19 62 62" preserveAspectRatio="xMidYMid" class="lds-ring p-A"><rect x="20" y="20" width="60" height="60" fill="none" stroke="#ffffff" stroke-width="0.5"></rect><rect x="20" y="20" width="60" height="60" fill="none" stroke="#c0d5ea" stroke-width="0.5" stroke-lincap="square"><animate attributeName="stroke-dasharray" calcMode="linear" values="24 216;120 120;24 216" keyTimes="0;0.5;1" dur="2" begin="0s" repeatCount="indefinite"></animate><animate attributeName="stroke-dashoffset" calcMode="linear" values="0;-120;-240" keyTimes="0;0.5;1" dur="2" begin="0s" repeatCount="indefinite"></animate></rect></svg> <img src="img/WhatsApp-Image.png" alt="Whatsapp | Taksh It Solutions" /> </a> </div><h4>Contact Us Taksh It Solutions Pvt. Ltd on WhatsApp <a target="_blank" href="https://wa.me/+919560602339" class="whatsapp-btn-btn"> <i class="flaticon-whatsapp"></i> </a> </h4> </div></div></div></div></section> <section class="contact-us-section ptb-100">
+    <!-- <section class="whats_up_sx"> <div class="container"> <div class="row justify-content-center"> <div class="col-md-12 col-lg-5"> <div class="qr_box"> <div class="qr_scran_pic"> <a target="_blank" href="https://wa.me/+917460007036"> <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="19 19 62 62" preserveAspectRatio="xMidYMid" class="lds-ring p-A"><rect x="20" y="20" width="60" height="60" fill="none" stroke="#ffffff" stroke-width="0.5"></rect><rect x="20" y="20" width="60" height="60" fill="none" stroke="#c0d5ea" stroke-width="0.5" stroke-lincap="square"><animate attributeName="stroke-dasharray" calcMode="linear" values="24 216;120 120;24 216" keyTimes="0;0.5;1" dur="2" begin="0s" repeatCount="indefinite"></animate><animate attributeName="stroke-dashoffset" calcMode="linear" values="0;-120;-240" keyTimes="0;0.5;1" dur="2" begin="0s" repeatCount="indefinite"></animate></rect></svg> <img src="img/WhatsApp-Image.png" alt="Whatsapp | Taksh It Solutions" /> </a> </div><h4>Contact Us Taksh It Solutions Pvt. Ltd on WhatsApp <a target="_blank" href="https://wa.me/+919560602339" class="whatsapp-btn-btn"> <i class="flaticon-whatsapp"></i> </a> </h4> </div></div></div></div></section> <section class="contact-us-section ptb-100">
         <div class="container contact">
             <div class="col-12 pb-3 message-box d-none"> <div class="alert alert-danger"></div></div><div class="row justify-content-around">
                 <div class="col-md-5"> <div class="left_contact_info"> <h4>Contact Information</h4> <p>Fill up the form and our Team will get back to you within 24 hours</p><ul class="contact-no-list contact-us-list"> <li> <a href="tel:+919650020493"> <i class="fa-solid fa-phone"></i> +91 9650020493,+91 9560602339 </a> </li><li> <a href="mailto:business@takshitsolutions.com"> <i class="fa-solid fa-envelope"></i> <span>business@takshitsolutions.com</span> </a> </li><li> <a href="https://goo.gl/maps/78TuCGQ7b61S7Gcd9" target="_blank"> <i class="fa-solid fa-location-dot"></i> <span>Corporate Office <br>I-Thum, Office no 912A, Tower C,Plot No A-40, Industrial Area, Sector 62, Noida, UP 201301</span> </a> </li></ul> <p class="mb-0">Live Chat</p><ul class="social-icons"> <li> <a target="_blank" href="skype:takshitsolutions"> <i class="fa-brands fa-skype"></i> </a> </li><li> <a target="_blank" href="https://t.me/takshitsolutions18012021"> <i class="fa-brands fa-telegram"></i> </a> </li><li> <a target="_blank" href="https://wa.me/+919560602339"><i class="fa-brands fa-whatsapp"></i></a> </li></ul> </div></div><div class="col-md-7">
@@ -591,7 +622,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <label>Selct Product</label>
+                                        <label>Select Product</label>
                                         <select class="form-control" id="DdlFcproduct" name="Select Product"></select>
                                     </div>
                                 </div>
@@ -639,7 +670,7 @@
                                     </div>
                                 </div><div class="col-md-12">
                                     <div class="form-group text-right">
-                                        <button type="submit" class="btn-submit " onclick="return SumitEnquiry('Contact')">Submit</button>
+                                        <button type="submit" class="btn-submit " onclick="return SubmitEnquiry('Contact')">Submit</button>
                                     </div>
                                 </div>
                             </div>
@@ -648,8 +679,8 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section class="loaction_map">
+    </section> -->
+    <!-- <section class="loaction_map">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -664,7 +695,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 </div>
 <script src="js/jquery.min.js"></script>
 <script type="text/javascript">
@@ -695,182 +726,68 @@
 </script>
  </section>
     </div>
+   
     <footer>
         <div class="container">
             <div class="row">
+                <!-- Connect With Us Section -->
                 <div class="col-md-12 col-lg-8">
                     <div class="row">
                         <div class="col-md-5">
                             <h5>Connect With Us</h5>
                             <ul class="contact-no-list">
                                 <li>
-									 <a href="tel:+919560602339" style="display: inline-block;">
-                                       <i class="fa-solid fa-phone"></i> +91 9650020493
+                                    <a href="tel:+919560602339" style="display: inline-block;">
+                                        <i class="fa-solid fa-phone"></i> +91 8979369386
                                     </a>
                                     <span style="font-weight:bold;">,</span>
                                     <a href="tel:+919560607439" style="display: inline-block;">
-                                         +91 9560607439
+                                        +91 7906192022
                                     </a>
                                 </li>
                                 <li>
                                     <a href="mailto:business@takshitsolutions.com">
                                         <i class="fa-solid fa-envelope"></i>
-                                        <span>business@takshitsolutions.com</span>
+                                        <span>business@aroundtechsolutions.com</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://goo.gl/maps/78TuCGQ7b61S7Gcd9" target="_blank">
+                                    <a href="https://maps.app.goo.gl/H8hwyuUmUJorfy9P7" target="_blank">
                                         <i class="fa-solid fa-location-dot"></i>
-                                        <span>Corporate Office <br /> I-Thum, Office no 912A, Tower C,Plot No A-40, Industrial Area, Sector 62, Noida, UP 201301 </span>
+                                        <span>Corporate Office <br /> Bhutani Alphathum, Office no A929, Tower A, Sector 90, Noida, UP 201305 </span>
                                     </a>
                                 </li>
                             </ul>
-                            <ul class="social-icons">
-                                <li>
-                                    <a target="_blank" href="https://www.facebook.com/takshitsoultions">
-                                        <i class="fa-brands fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.instagram.com/taksh_it_solutions/">
-                                        <i class="fa-brands fa-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://twitter.com/OFFICIAL_TAKSH">
-                                        <i class="fa-brands fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.linkedin.com/company/takshitsolutions">
-                                        <i class="fa-brands fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://t.me/takshitsolutions">
-                                        <i class="fa-brands fa-telegram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="skype:takshitsolutions">
-                                        <i class="fa-brands fa-skype"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <p class="copy-right mt-2 ">
+                            <p class="copy-right mt-2">
                                 © Copyright <span id="year"></span> - <span id="nextyear"></span>
                             </p>
                         </div>
-                        <div class="col-md-4">
-                            <h5>Services</h5>
-                            <ul class="list-ft">
-                                <li>
-                                    <a href="cryptocurrency-development.html">Cryptocurrency</a>
-                                </li>
-                                <li>
-                                    <a href="decentralized-mlm.html">Decentralized MLM</a>
-                                </li>
-                                <li>
-                                    <a href="erp.html">ERP</a>
-                                </li>
-                                <li>
-                                    <a href="crm.html">CRM</a>
-                                </li>
-                                <li>
-                                    <a href="ecommerce-development.html">E-Commerce</a>
-                                </li>
-                                <li>
-                                    <a href="digital-marketing.html">Digital Marketing</a>
-                                </li>
-                                <li class="d-none">
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#myModal">Testimonials</a>
-                                </li>
-
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <h5>Company</h5>
-                            <ul class="list-ft">
-                                <li>
-                                    <a href="void:javascript(0)" data-toggle="modal" data-target="#myModal" class="anchorbrandsolutions">
-                                        <i class="fa-solid fa-file"></i> Brand Solutions
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">
-                                        <i class="fa fa-building-o"></i> About Us
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="our-team.html">
-                                        <i class="fa-solid fa-users"></i>  Our Team
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="contact-us.html">
-                                        <i class="fa fa-phone-square"></i>  Contact Us
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://blog.takshitsolutions.com/">
-                                        <i class="fa-solid fa-blog"></i>
-                                        Blog
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="startup_india_cirtficat_Taksh_It.pdf" target="_blank" class="footer-pdf">
-                                        <img src="img/starup_india.png" class="img-fluid" alt="Taksh startup india certificate | Taksh It Solutions" />
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="nexarc_cirtficate_Taksh_It.pdf" target="_blank" class="footer-pdf">
-                                        <img src="img/nexarc_logo.svg" class="img-fluid" alt="Taksh tata nexa certificate | Taksh It Solutions" />
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="udyam-certificate_Taksh_It.pdf" target="_blank" class="footer-pdf">
-                                        <img src="img/msme-logo.png" class="img-fluid" alt="Taksh msme certificate | Taksh It Solutions" />
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+    
+                        <!-- Services Section -->
+                        <div class="col-md-5" style="padding-left: 100px;">
+                            <h5 style="color: white;">Services</h5>
+                            <p style="color: white; font-weight: bold;">
+                                We offer a wide range of IT services to meet your needs, including software development, IT consulting, cloud services, and more. Our goal is to deliver high-quality, customized solutions to help your business thrive in the digital age.
+                            </p>
+                        </div> 
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-4 footer-form-parent" >
-                    <h5>Enquiry Form</h5>
-                    <form action="#" class="form-footer">
-                        <div class="form-group">
-                            <select class="form-control" id="DdlFproduct" name="Select Product"></select>
-                        </div>
-                        <div class="form-group">
-                            <div class="row">
-                                <div class="col-md-2" style=" margin-top: 10px;" >
-                                    <img src="flags/India.png" id="imgFFlag" style="width:30px" translate="no" />
-                                </div>
-                                <div class="col-md-10">
-                                    <select class="form-control DdlFcountrycode" id="DdlFcountrycode" name="Select Country" translate="no"></select>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <input type="text" name="" placeholder="Type Name Here" id="FtxtName" class="form-control" required="" />
-                        </div>
-                        <div class="form-group">
-                            <input type="text" name="" placeholder="Type Mobile No Here" id="FtxtMobile" class="form-control cssOnlyNumeric" required="" />
-
-                        </div>
-                        <div class="form-group">
-                            <textarea id="FtxtMessage" placeholder="Enter Your Message" class="form-control" rows="3" required=""></textarea>
-                        </div>
-                        <button type="submit" class="btn-submit" onclick="return SumitEnquiry('Footer')">Submit</button>
-                    </form>
+    
+                <!-- Our Location Section with Google Maps -->
+                <div class="col-md-12 col-lg-4 footer-form-parent">
+                    <h5>Our Location</h5>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.8953182331047!2d77.40831451213569!3d28.512797075629212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce9fcbe0273a1%3A0xd8ed754838e2f8a4!2sBhutani%20Alphathum!5e0!3m2!1sen!2sin!4v1727940925153!5m2!1sen!2sin"
+                        width="150%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
-        <img src="img/bird.png" alt="Bird | Taksh It Solutions" class="one-arrow-f">
-        <img src="img/bird.png" alt="Bird | Taksh It Solutions" class="two-arrow-f">
-        <img src="img/bird.png" alt="Bird | Taksh It Solutions" class="three-arrow-f">
+    
+        <!-- Footer Decoration Images -->
+        <img src="img/bird.png" alt="Bird | Around Tech  Solutions" class="one-arrow-f">
+        <img src="img/bird.png" alt="Bird | Around Tech  Solutions" class="two-arrow-f">
+        <img src="img/bird.png" alt="Bird | Around Tech  Solutions" class="three-arrow-f">
     </footer>
+
     <div class="modal fade pop-up-form" id="myModal">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
