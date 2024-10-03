@@ -1,0 +1,30 @@
+footer {
+    background-color: #111633;
+    background-image: url(../img/contact-bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+
+ul.list-ft a {
+    color: #fff;
+}
+
+ul.contact-no-list a {
+    color: #000 !important;
+    font-weight: bold;
+}
+
+footer:before {
+    background: #00000059;
+}
+
+.copy-right {
+    color: #fff;
+}
+.left_contact_info p{
+    font-family:Montserrat,sans-serif !important;
+}
+footer ul.contact-no-list a {
+    color:#fff !important;
+}

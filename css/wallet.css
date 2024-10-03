@@ -1,0 +1,19 @@
+footer {
+    background-color: #111633;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+ul.list-ft a{
+    color:#fff;
+}
+ul.contact-no-list a{
+    color:#fff;
+}
+footer:before {
+    background: #00000059;
+}
+.copy-right{
+    color:#fff;
+}

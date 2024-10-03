@@ -1,0 +1,6082 @@
+.custom-btn, .custom-btn:focus {
+    box-shadow: 0 2px 0 #ad3800
+}
+
+.custom-btn, .custom-btn-box {
+    border-radius: 61px;
+    background: #f26622
+}
+
+    .custom-btn:after, .left_contact_info:after, .left_contact_info:before, .support_box:after, .support_box:before {
+        position: absolute;
+        content: ''
+    }
+
+.crm_email_benefits .crm_email_benefits_para p, .crm_email_works p, .crm_features_content p, .crm_whatsapp_benefit p, .qr_box h4, .service_container p, .what-can p, .why-coins .card p, ul.dark-ul li:last-child {
+    margin-bottom: 0
+}
+
+.alt-card, .circles ul li, .custom-btn, .launch-preview a, .plan_box_mlm a {
+    text-decoration: none
+}
+
+ul.contact-us-list li:last-child i {
+    width: 2.5em !important
+}
+
+.ecommerce-process-box-parent img, .img-height, .post-ico-marketing img {
+    height: 100%;
+    object-fit: cover
+}
+
+ul.dark-ul li {
+    color: #000;
+    line-height: 20px;
+    margin-bottom: 10px
+}
+
+.custom-btn {
+    color: #fff;
+    position: relative;
+    z-index: 10;
+    transition: .2s ease-in-out;
+    border-bottom: 2px solid #bd3e00;
+    margin: 0 5px
+}
+
+    .custom-btn:after {
+        right: 0;
+        top: 0;
+        width: 0;
+        height: 100%;
+        background: #182d41;
+        z-index: -1;
+        border-radius: 10px;
+        transition: .3s ease-in-out
+    }
+
+    .advanage-multi-wallet .advanage-multi-wallet-box:hover *, .common-inner-header h2, .crm-lead-work-box h6, .custom-btn-box:hover, .custom-btn:hover, .ecommerce-choose-us h4, .ecommerce-process-box:hover h4, .ecommerce-process-box:hover p, .institute-erp-feature .institute-erp-box h4, .left_contact_info h4, .left_contact_info ul.contact-no-list a, .our-clients .client-box p, .story-box .story-box-info:hover h4, .story-box .story-box-info:hover p, .teabm_box_mlm h5, .why-erp .card h4, .why-erp-we h4, .why-erp-we h5, .why-erp-we p, .why-shool-erp ul li, .why-taksh-about-box .h-border, .why-taksh-about-box p, .why-us-defi-exchange .card h5 {
+        color: #fff;
+    }
+
+.left_contact_info h4 {
+    color: #182d41;
+}
+
+.custom-btn-box {
+    padding: 6px 16px;
+    font-size: 15px;
+    color: #fff;
+    overflow: hidden;
+    margin-top: 8px
+}
+
+    .custom-btn-box:focus {
+        box-shadow: none
+    }
+
+.card-body.py-5 {
+    padding: 2px 6px 0;
+    border: 1px solid #f26622;
+    height: 100%;
+    color: #989898;
+    transition: .5s;
+    box-shadow: 0 0 0 #d4d4d4;
+    cursor: pointer;
+    max-height: 182px
+}
+
+button:focus {
+    outline: 0
+}
+
+.common-inner-header {
+    position: relative;
+    padding: 110px 0 15px
+}
+
+    .common-inner-header a.View-btn {
+        margin-bottom: 10px;
+        background: 0 0;
+        box-shadow: none;
+        border: 0;
+        color: #f26622;
+        padding: 0;
+        width: auto;
+        border-radius: 0;
+        font-weight: 700
+    }
+
+        .common-inner-header a.View-btn img {
+            width: 22px;
+            height: 30px;
+            margin-left: 5px;
+            transition: .3s ease-in-out
+        }
+
+        .common-inner-header a.View-btn:hover {
+            background: 0 0;
+            box-shadow: none;
+            border: 0;
+            color: #f26622
+        }
+
+.card_pic_mlm1 figure, .teabm_box_mlm:before {
+    border-radius: 12px;
+    box-shadow: 8px 14px 22.8px 1.2px rgb(0 0 0 / 7%)
+}
+
+.common-inner-header a.View-btn:hover img {
+    margin-left: 10px
+}
+
+.common-inner-header h1 {
+    color: #fff;
+    font-size: 33px;
+    text-transform: capitalize
+}
+
+section.about-page-header {
+    background-color: #386691
+}
+
+section.crm-banner-bg, section.ico-mar-banner-bg, section.wallet-dev-banner-bg {
+    background-color: #111633
+}
+
+section.erp-banner-bg {
+    background-color: #0e3942;
+    background-image: url(../img/erp-bg.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+section.ecommerce-banner-bg {
+    background-color: #006672;
+    background-image: url(../img/ecommerce-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover
+}
+
+section.about-banner-bg, section.contact-banner-bg {
+    background-color: #111633;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right bottom
+}
+
+section.contact-banner-bg {
+    background-image: url(../img/contact-bg-1.jpg)
+}
+
+section.about-banner-bg {
+    background-image: url(../img/about-bg.png)
+}
+
+section.crypto-banner-bg {
+    background-color: #0a2a4a;
+    background-image: url(../img/crypto-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover
+}
+
+section.blockchain-dev-banner-bg, section.coin-creation-banner-bg, section.defi-banner-bg, section.ido-dev-banner-bg, section.ido-launchpad-banner-bg, section.nft-market-banner-bg, section.smart-contract-banner-bg {
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+section.ico-dev-banner-bg {
+    background-color: #00344c
+}
+
+section.exchange-banner-bg {
+    background-color: #171647
+}
+
+section.coin-creation-banner-bg {
+    background-color: #111633;
+    background-image: url(../img/coin-creation-bg.jpg)
+}
+
+section.blockchain-dev-banner-bg {
+    background-color: #140521;
+    background-image: url(../img/blockchain-bg.jpg)
+}
+
+section.defi-banner-bg {
+    background-color: #00335e;
+    background-image: url(../img/defi-bg.jpg)
+}
+
+section.ido-dev-banner-bg, section.nft-market-banner-bg {
+    background-color: #1b0940;
+    background-image: url(../img/ido-bg.jpg)
+}
+
+section.ido-launchpad-banner-bg {
+    background-color: #1e1549;
+    background-image: url(../img/ido-launchpad-bg.jpg)
+}
+
+section.smart-contract-banner-bg {
+    background-color: #05314d;
+    background-image: url(../img/smart-bg.jpg)
+}
+
+.left_contact_info {
+    background: #fff8f4;
+    padding: 30px;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 15px -8px #00000082;
+    border: 1px solid #00000069;
+}
+
+    .left_contact_info:before {
+        background: #ffa77c;
+        width: 200px;
+        height: 200px;
+        border-radius: 300px;
+        right: -50px;
+        bottom: -90px
+    }
+
+    .left_contact_info:after {
+        background: #5f53ecbf;
+        width: 80px;
+        height: 80px;
+        border-radius: 300px;
+        right: 67px;
+        bottom: 45px
+    }
+
+    .left_contact_info ul.contact-no-list {
+        margin: 30px 0 0;
+    }
+
+        .left_contact_info p, .left_contact_info ul.contact-no-list i {
+            color: #ff5b00;
+            font-weight: bold;
+        }
+
+    .left_contact_info ul.social-icons > li > a {
+        width: 40px;
+        height: 40px;
+        border-radius: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: all .2s linear;
+    }
+
+        .left_contact_info ul.social-icons > li > a > i {
+            color: #ff5b00 !important;
+            font-size: 30px;
+            transition: all .3s linear;
+        }
+
+        .left_contact_info ul.social-icons > li > a:hover > i {
+            color: #003c72 !important;
+        }
+
+        .left_contact_info ul.social-icons > li > a:hover {
+            /* background: #ff5b00; */
+        }
+
+        .left_contact_info ul.social-icons > li > a > i:before {
+            /* color: #fff !important; */
+        }
+/* .contact-us-form, */
+.blockchain-help ul, .post-ico-marketing ul {
+    padding-left: 30px
+}
+
+.about-makes-us-diff .col-lg-6, .advanage-multi-wallet .col-lg-6, .bitcoin-services .col-lg-4, .blockchain-services .col-lg-3, .coins-feature .col-lg-4, .consulting-help .col-lg-6, .crm-lead-feature .col-lg-6, .crm-lead-work .col-lg-6, .crypto-consultation-service .col-lg-4, .crypto-mlm-contract .col-lg-4, .crypto-mlm-ser .col-lg-4, .crypto-page-exchange-service .col-md-6, .crypto-page-launch-service .col-md-6, .crypto-wallet-ser .col-lg-4, .custom-alt-ser .col-lg-4, .ecommerce-choose-us .col-lg-6, .ecommerce-industries .col-lg-5, .ecommerce-industries .col-lg-7, .ecommerce-our-feature .col-md-4, .erp-industry .col-lg-4, .erp-industry .col-lg-6, .erp-school-ser .col-lg-4, .erp-service .col-lg-12, .erp-service .col-lg-3, .erp-service .col-lg-4, .feature-multi-wallet .col-lg-3, .ico-marketing-platform .col-lg-3, .ico-marketing-platform .col-lg-4, .ico-marketing-ser .col-lg-4, .ido-launch .col-lg-4, .ido-launch .col-lg-6, .ido-services .col-lg-4, .loaction_map .col-md-6, .nft-market-ser .col-lg-4, .nft-other-feature .col-lg-4, .our-crypto-services .col-md-4, .our-feature-launchpad .col-lg-6, .our-mission-vission .col-lg-2, .our-mission-vission .col-lg-4, .our-mission-vission .col-lg-5, .our-mission-vission .col-lg-6, .our-value-about .col-lg-4, .reason-scholl-box, .school-erp-feature .col-lg-6, .smart-contract-services .col-lg-4, .smart-contract-services .col-lg-6, .solution-exchange-crypto .col-lg-4, .token-dev-type .col-lg-4, .type-of-coins .col-lg-4, .we-are-taksh .col-lg-4, .we-are-taksh .col-lg-8, .we-are-taksh .col-lg-9, .we-offering-crm .col-lg-3, .we-offering-crm .col-lg-4, .we-offering-crm .col-lg-6, .why-coins .item, .why-shool-erp .col-lg-6 {
+    margin: 15px 0
+}
+
+.support_box:before {
+    width: 100%;
+    border-bottom: 2px dashed #e1deff;
+    bottom: -25px;
+    left: 0
+}
+
+.support_box:after {
+    height: 80%;
+    border-right: 2px dashed #e1deff;
+    right: 0
+}
+
+.support_box {
+    position: relative;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center
+}
+
+    .support_box img {
+        margin-right: 15px;
+        width: 60px
+    }
+
+    .advanage-multi-wallet h4, .coins-services .card-title, .crm-lead-services h4, .crypto-page-exchange-avail .card h4, .crypto-page-prelaunching h6, .story-box .story-box-info h4, .support_box h4 {
+        font-size: 20px
+    }
+
+.bdimJo, .it_support .col-md-4:nth-child(3) .support_box:after, .it_support .col-md-4:nth-child(4) .support_box:before, .it_support .col-md-4:nth-child(5) .support_box:before, .it_support .col-md-4:nth-child(6) .support_box:after, .it_support .col-md-4:nth-child(6) .support_box:before, .mobile-btn {
+    display: none
+}
+
+section.it_support {
+    padding: 75px 0;
+    position: relative
+}
+
+section.We_provide, section.contact-us-section {
+    padding: 75px 0
+}
+
+span.pos_1 {
+    -webkit-mask-size: 16px;
+    mask-size: 16px;
+    -webkit-mask-image: url(../img/dots.svg);
+    mask-image: url(../img/dots.svg);
+    width: 155px;
+    height: 155px;
+    background: #8bc0f2;
+    position: absolute;
+    left: -100px;
+    bottom: 0
+}
+
+.card_pic_mlm1:before, .qr_scran_pic svg {
+    position: absolute;
+    width: 100%;
+    height: 100%
+}
+
+section.whats_up_sx {
+    background: #004f46;
+    padding: 75px 0
+}
+
+.card_pic_mlm1 figure, .qr_box {
+    background: #fff;
+    position: relative
+}
+
+.qr_scran_pic {
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    padding: 15px
+}
+
+.qr_box, .teabm_box_mlm:before {
+    padding: 30px;
+    text-align: center
+}
+
+.qr_scran_pic svg {
+    background: #fff;
+    z-index: -1;
+    left: 0;
+    top: 0
+}
+
+.qr_box {
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px
+}
+
+    .qr_box h4 {
+        font-size: 24px;
+        color: #4b5a69;
+        margin-top: 15px
+    }
+
+.qr_scran_pic img {
+    max-width: 100%
+}
+
+.hero-screen-wrap {
+    display: flex;
+    align-items: flex-end;
+    margin-right: -120px
+}
+
+    .hero-screen-wrap .phone-screen {
+        z-index: 2;
+        flex: 0 0 100px;
+        margin-right: 0
+    }
+
+    .hero-screen-wrap .mac-screen {
+        z-index: 1;
+        flex: 0 0 440px;
+        margin-right: 0
+    }
+
+.card_pic_mlm1 figure {
+    text-align: center;
+    border: 1px solid rgba(0,0,0,.03);
+    z-index: 998;
+    width: 100%
+}
+
+.card_pic_mlm1:before {
+    content: '';
+    border: 3px solid;
+    border-radius: 15px;
+    left: -30px;
+    top: -30px
+}
+
+.card_pic_mlm1 span:after, .card_pic_mlm1 span:before {
+    background: #639;
+    border-radius: 30px;
+    position: absolute;
+    content: ''
+}
+
+.card_pic_mlm1 {
+    position: relative;
+    margin-top: 40px
+}
+
+    .card_pic_mlm1 span {
+        position: absolute;
+        left: -30px;
+        top: -30px;
+        overflow: hidden;
+        width: 50px;
+        height: 50px;
+        border-radius: 8px 0 0
+    }
+
+        .card_pic_mlm1 span:before {
+            width: 50px;
+            height: 5px
+        }
+
+        .card_pic_mlm1 span:after {
+            height: 50px;
+            width: 5px;
+            left: 0
+        }
+
+section.awesome_team_sc {
+    padding: 100px 0;
+    background: #fafafa
+}
+
+.teabm_box_mlm:before {
+    transform: rotate(45deg);
+    border: 8px solid #fff;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    content: ''
+}
+
+.teabm_box_mlm.box_five:before {
+    border-color: #f9f9f9
+}
+
+.teabm_box_mlm figure {
+    margin: 0;
+    width: 100%;
+    position: relative;
+    text-align: center
+}
+
+.teabm_box_mlm img {
+    width: 55px;
+    margin-bottom: 15px
+}
+
+.teabm_box_mlm {
+    position: relative;
+    width: 175px;
+    height: 175px;
+    margin: 0 auto;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+    .teabm_box_mlm.box_five {
+        margin-top: -69px;
+        width: 200px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+
+    .teabm_box_mlm.box_three {
+        top: -53px;
+        right: -52px
+    }
+
+    .teabm_box_mlm.box_one {
+        top: -15px;
+        right: -52px
+    }
+
+    .teabm_box_mlm.box_two {
+        top: -15px;
+        left: -52px
+    }
+
+    .teabm_box_mlm.box_four {
+        top: -53px;
+        left: -52px
+    }
+
+    .teabm_box_mlm.box_one:before {
+        background: #34008b
+    }
+
+    .teabm_box_mlm.box_two:before {
+        background: #01c4b9
+    }
+
+    .teabm_box_mlm.box_four:before {
+        background: #e43e49
+    }
+
+    .teabm_box_mlm.box_three:before {
+        background: #ffcf01
+    }
+
+    .teabm_box_mlm.box_five h5 {
+        color: #ffcf01
+    }
+
+    .teabm_box_mlm.box_five p {
+        color: #606060
+    }
+
+.plan_box_mlm {
+    box-shadow: 8px 14px 22.8px 1.2px rgb(0 0 0 / 7%);
+    border-radius: 12px;
+    border: 1px solid rgba(0,0,0,.03);
+    padding: 15px;
+    background: #182d41;
+    position: relative;
+    margin-top: 75px
+}
+
+.crypto-page-exchange-avail .col-lg-12, .crypto-page-exchange-avail .col-lg-3, .crypto-page-exchange-avail .col-lg-4, .crypto-page-exchange-avail .col-lg-6, .mlm_plan_sc .col-md-4, .we-create-nft .col-lg-6 {
+    margin: 30px 0
+}
+
+.plan_box_mlm a {
+    color: #fff
+}
+
+.plan_box_mlm figure {
+    background: #fff;
+    border-radius: 15px;
+    margin-top: -50px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 0 20px #00000017;
+    padding: 15px
+}
+
+    .plan_box_mlm figure:before {
+        content: '';
+        position: absolute;
+        border-right: 20px solid #af953d00;
+        border-left: 20px solid #0035ff00;
+        border-top: 15px solid #fff;
+        bottom: -15px;
+        left: 11%
+    }
+
+    .plan_box_mlm figure span {
+        width: 75px;
+        height: 75px;
+        display: flex;
+        margin: -37px auto 0;
+        background: #fff;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center
+    }
+
+        .plan_box_mlm figure span img {
+            width: 75px;
+            padding: 10px
+        }
+
+img.opacity-pic {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    opacity: .2;
+    pointer-events: none
+}
+
+.plan_box_mlm article {
+    padding-left: 50px;
+    position: relative
+}
+
+span.text_pl {
+    position: absolute;
+    font-size: 30px;
+    color: #fff;
+    left: 0
+}
+
+.plan_box_mlm article h4 {
+    font-size: 24px;
+    color: #fff
+}
+
+.coin-menu {
+    margin: 0;
+    display: flex;
+    width: 100%;
+    font-size: 1.5em;
+    padding: 0 2.85em;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: #f26622
+}
+
+.crypto-page-exchange-service .postcard:hover .postcard__bar, .menu__item img, .our-crypto-services .postcard:hover .postcard__bar, .our_process-1 img, .single-services-box .service-icon .services-icon-shape-1 img {
+    width: 100px
+}
+
+.menu__item {
+    all: unset;
+    flex-grow: 1;
+    z-index: 100;
+    display: flex;
+    cursor: pointer;
+    position: relative;
+    border-radius: 50%;
+    align-items: center;
+    will-change: transform;
+    justify-content: center;
+    padding: .55em 0 .85em;
+    transition: transform var(--timeOut,var(--duration));
+    transition-duration: 3s,1s
+}
+
+    .menu__item::before {
+        content: "";
+        z-index: -1;
+        width: 4.2em;
+        height: 4.2em;
+        border-radius: 50%;
+        position: absolute;
+        transform: scale(0)
+    }
+
+    .menu__item.active {
+        transform: translate3d(0,-.8em,0)
+    }
+
+        .menu__item.active::before {
+            transform: scale(1);
+            background-color: red
+        }
+
+.icon {
+    width: 2.6em;
+    height: 2.6em;
+    stroke: #fff;
+    fill: transparent;
+    stroke-width: 1pt;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 400
+}
+
+.menu__item.active .icon {
+    animation: 1.5s reverse strok
+}
+
+@keyframes strok {
+    100% {
+        stroke-dashoffset: 400
+    }
+}
+
+.menu__border {
+    left: 0;
+    bottom: 99%;
+    width: 10.9em;
+    height: 2.4em;
+    position: absolute;
+    will-change: transform;
+    background-color: #00f;
+    transition: transform var(--timeOut,var(--duration))
+}
+
+.svg-container {
+    width: 0;
+    height: 0
+}
+
+.feature-item {
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+    position: relative
+}
+
+    .feature-item:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        filter: blur(10px)
+    }
+
+    .feature-item h3 {
+        font-size: 18px;
+        padding-right: 85px
+    }
+
+    .feature-item .taksh-icon {
+        padding-bottom: 10px;
+        text-align: center
+    }
+
+        .feature-item .taksh-icon img {
+            position: absolute;
+            right: 10px;
+            top: 5px;
+            width: 90px
+        }
+
+    .advanage-multi-wallet .advanage-multi-wallet-box p, .bitcoin-services .card p, .blockchain-services-item p, .crm-lead-feature-box p, .crypto-mlm-ser .card p, .crypto-page-exchange-avail p, .crypto-page-prelaunching p, .custom-alt-ser .card p, .erp-school-ser .card p, .feature-item p, .feature-multi-wallet .card p, .launch-content p, .our-value-box p, .we-offering-crm .card p, .why-institue-box p {
+        color: #000;
+        margin: 0;
+        margin-top: 5px
+    }
+
+    .feature-item.color-four, .feature-item.color-six {
+        background: #e3fefe
+    }
+
+.color-two:after, .color-two:before {
+    background: #ebfdfd
+}
+
+.feature-item.color-one:after {
+    background: #ecf2fe
+}
+
+.we-are-taksh {
+    position: relative;
+    z-index: 1
+}
+
+    .we-are-taksh img {
+        border-radius: 5px;
+        height: 100%;
+        object-fit: cover;
+        width: 100%
+    }
+
+    .we-are-taksh:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%
+    }
+
+    .we-are-taksh .card {
+        padding: 20px;
+        background: rgba(255,255,255,.8);
+        height: 100%;
+        box-shadow: inset 0 0 15px rgb(0 0 0 / 28%)
+    }
+
+        .we-are-taksh .card ul {
+            list-style: circle;
+            padding-left: 15px
+        }
+
+        .alt-card p, .ico-marketing-platform .card .card-title, .we-are-taksh .card p {
+            margin: 0
+        }
+
+        .we-are-taksh .card h4 {
+            text-align: center;
+            font-size: 20px
+        }
+
+.team-member {
+    margin-bottom: 30px;
+    text-align: center
+}
+
+    .team-member .content {
+        z-index: 1;
+        padding: 15px 0;
+        position: relative;
+        transition: .3s ease-in-out;
+        background-color: #fff;
+        box-shadow: 0 5px 20px rgb(34 34 34 / 10%);
+        margin-left: 15px;
+        margin-top: -30px;
+        margin-right: 15px
+    }
+
+        .team-member .content h4 {
+            transition: .3s ease-in-out;
+            font-size: 20px;
+            margin-bottom: 10px
+        }
+
+        .team-member .content ul li a {
+            color: #f26622;
+            font-size: 22px;
+            display: block;
+            background: #00335e;
+            margin-bottom: -20px;
+            margin-top: 10px;
+            padding: 4px 0
+        }
+
+.crypto-wallet-ser .type-of-coin-box h4, .why-blockchain .why-blockchaonbox h4 {
+    font-size: 18px
+}
+
+.feature-multi-wallet .card {
+    border-color: transparent;
+    transition: .3s ease-in-out;
+    height: 100%;
+    -webkit-box-shadow: 0 5px 15px 0 rgb(21 10 82 / 20%);
+    box-shadow: 0 5px 15px 0 rgb(21 10 82 / 20%)
+}
+
+    .feature-multi-wallet .card:hover {
+        border-color: #f26622
+    }
+
+.feature-multi-wallet .card-img, .institute-erp-feature .institute-erp-box img, .why-erp .card img {
+    width: 70px;
+    margin-bottom: 10px
+}
+
+.ITians.sampe-pding-top, .benefits-crm-para p, .coins-feature, .feature-multi-wallet .card-img-parent, .our-process-border, .smart-contract-services .div-line, .smart-contract-services .div-line .row, .timeline, .type-of-blockchain .card .content .heading-text, .why-erp-new-box h5 {
+    position: relative
+}
+
+.feature-multi-wallet .card h4 {
+    font-size: 16px;
+    background: #e6e6e7;
+    padding: 10px 70px 10px 10px;
+    color: #050f56;
+    margin: 0
+}
+
+.feature-multi-wallet .card-body {
+    padding: 10px 15px
+}
+
+.feature-multi-wallet .card-image {
+    background: #fff;
+    position: absolute;
+    right: -15px;
+    top: -13px;
+    text-align: left;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%
+}
+
+.feature-multi-wallet .card:before {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 12px solid #192a9b;
+    top: -24px;
+    left: 0;
+    border-left-color: transparent;
+    border-top-color: transparent
+}
+
+.dm-icon img, .feature-multi-wallet .card-image img {
+    width: 50px
+}
+
+.advanage-multi-wallet {
+    background: rgb(242 242 242)
+}
+
+    .advanage-multi-wallet .advanage-multi-wallet-box {
+        background: #fff;
+        padding: 20px;
+        height: 100%;
+        border-radius: 5px;
+        position: relative;
+        z-index: 1;
+        overflow: hidden
+    }
+
+.ico-marketing-platform .card {
+    padding: 10px 0 10px 70px;
+    transition: .3s ease-in-out;
+    border-color: #1f32a5
+}
+
+    .ico-marketing-platform .card:hover, .nft-other-feature .card:hover {
+        border-color: rgb(242 102 34)
+    }
+
+    .ico-marketing-platform .card img, .nft-other-feature .card img {
+        width: 50px;
+        position: absolute;
+        left: 10px;
+        top: 0;
+        bottom: 0;
+        margin: auto
+    }
+
+.ico-marketing-platform .card-body, .nft-other-feature .card-body, .timeline .col-3, .timeline .col-9 {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.ico-marketing-ser .card {
+    border-color: #1f32a5;
+    position: relative;
+    overflow: hidden;
+    z-index: 1
+}
+
+.ico-mar-box:after, .ico-marketing-ser .count {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    width: 100%
+}
+
+.ico-marketing-ser .count {
+    right: 0;
+    background: #1f32a5;
+    height: 34px;
+    border-radius: 0 0 50% 50%;
+    color: #fff;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    font-size: 24px;
+    opacity: .4;
+    transition: .3s ease-in-out
+}
+
+.ico-marketing-ser .card:hover .count {
+    height: 100%;
+    border-radius: 0;
+    opacity: .1;
+    color: #000
+}
+
+.about-caro-box h5, .bitcoin-feature .col-md-10, .crypto-page-provide-service .col-md-10, .crypto-token-ser .type-of-coin-box .type-img, .custom-alt-ser .card .card-title, .exclusive-exchange-crypto .col-lg-5, .ico-marketing-ser .card .card-title, .ido-launchpad-services .card-title {
+    display: flex;
+    align-items: center
+}
+
+.Smart_Contract_Development img, .ico-marketing-ser .card img {
+    width: 70px;
+    margin-right: 10px
+}
+
+.ico-mar-box {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 16px 8px #00000024;
+    position: relative
+}
+
+    .ico-mar-box:after {
+        content: '';
+        left: 0;
+        height: 100%;
+        background: #fff;
+        opacity: .9;
+        filter: blur(5px)
+    }
+
+    .defi-exchange-ul ul li img, .ico-mar-box img {
+        width: 80px;
+        margin-bottom: 10px
+    }
+
+.go-arrow img, .go-corner {
+    width: 35px;
+    height: 35px
+}
+
+.ico-marketing-process {
+    background-image: url(../img/ico-marketing-process.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1
+}
+
+    .ico-marketing-process:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        opacity: .6;
+        z-index: -2
+    }
+
+@media screen and (max-width: 50em) {
+    .menu {
+        font-size: .8em
+    }
+}
+
+.crm_whatsapp_business ul li, .post-ico-marketing ul li {
+    font-family: JOST-LIGHT !important;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    position: relative
+}
+
+    .post-ico-marketing ul li:after {
+        content: '';
+        position: absolute;
+        left: -30px;
+        top: 10px;
+        margin: auto;
+        width: 19px;
+        height: 18px;
+        background-image: url(../img/pointer.svg);
+        background-size: cover
+    }
+
+.alt-card {
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    right: 0
+}
+
+.go-corner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    background-color: #124981;
+    border-radius: 0 4px 0 32px;
+    padding: 30px
+}
+
+.go-arrow {
+    margin-top: -4px;
+    margin-right: -4px;
+    color: #fff;
+    font-family: courier,sans
+}
+
+.alt-card {
+    display: block;
+    position: relative;
+    background-color: #f2f8f9;
+    border-radius: 4px;
+    padding: 32px 24px;
+    margin: 12px;
+    z-index: 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px #ccc
+}
+
+    .alt-card:before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: -16px;
+        right: -16px;
+        background: #124981;
+        height: 32px;
+        width: 32px;
+        border-radius: 32px;
+        transform: scale(1);
+        transform-origin: 50% 50%;
+        transition: transform .25s ease-out
+    }
+
+    .alt-card:hover:before {
+        transform: scale(50)
+    }
+
+    .alt-card h3 {
+        transition: .3s ease-out;
+        color: #000;
+        font-size: 20px
+    }
+
+    .alt-card:hover, .alt-card:hover h3, .alt-card:hover p {
+        transition: .3s ease-out;
+        color: #fff
+    }
+
+.exclusive-exchange-crypto .col-lg-5, .exclusive-exchange-crypto .col-lg-7, .margin-what-can, .mb-30, .our-crypto-services h2, .smart_contract_section .col-md-6, .why-erp .col-lg-3, .why-us-defi-exchange .col-lg-6 {
+    margin-bottom: 30px
+}
+
+.our-crypto-services .postcard {
+    box-shadow: 0 4px 21px -12px rgba(0,0,0,.66);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    color: #777;
+    height: 100%
+}
+
+.our-crypto-services .small {
+    font-size: 80%
+}
+
+.our-crypto-services .postcard__title {
+    font-size: 1.15rem
+}
+
+    .our-crypto-services .postcard__title a {
+        color: #182d41
+    }
+
+.our-crypto-services .postcard__img {
+    max-height: 180px;
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    transition: .3s ease-out
+}
+
+.our-crypto-services .postcard__img_link {
+    display: contents
+}
+
+.our-crypto-services .postcard__bar {
+    width: 50px;
+    height: 3px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #424242;
+    transition: width .2s
+}
+
+.our-crypto-services .postcard__text {
+    padding: 24px 20px;
+    position: relative
+}
+
+    .our-crypto-services .postcard__text:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 0;
+        height: 0;
+        background: #639;
+        z-index: -1;
+        transition: .3s ease-in-out
+    }
+
+.our-crypto-services .postcard__preview-txt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100%;
+    color: #000
+}
+
+    .our-crypto-services .postcard__preview-txt .read-btn {
+        color: #1470cd;
+        font-weight: 700
+    }
+
+    .Smart_Development h4, .altcoin-benifits .altcoin-benifits-box .row, .consultation-feature-box h6, .consulting-help .card p, .crm-lead-box p, .crm-whatsap_contents p, .crm_email_best p, .crm_whatsapp_benefit_con h4, .crypto-accordian p, .defi-exchange-ul ul li h6, .ecommerce-industries ul li:last-child, .ecommerce-industry-box h4, .ecommerce-our-feature p, .ido-launch-box .launch-text p, .institute-erp-feature .row, .nft-other-feature .card .card-title, .our-crypto-services .postcard__preview-txt p, .our_process_1 p, .reason-scholl-box h5, .reason-scholl-box p, .single-services-box p, .smart_benifit-2 h5, .team-box .card h6, .team-box .card p, .thumbnail p, .we-create-nft .card p, .why-erp-box2 p, .why-erp-we p {
+        margin: 0
+    }
+
+.crypto-page-exchange-service .postcard__tagbox, .our-crypto-services .postcard__tagbox {
+    display: flex;
+    flex-flow: row wrap;
+    font-size: 14px;
+    margin: 20px 0 0;
+    padding: 0;
+    justify-content: center
+}
+
+.crypto-page-exchange-service .tag__item, .our-crypto-services .tag__item {
+    display: inline-block;
+    background: rgba(83,83,83,.4);
+    border-radius: 3px;
+    padding: 2.5px 10px;
+    margin: 0 5px 5px 0;
+    cursor: default;
+    user-select: none;
+    transition: background-color .3s
+}
+
+tag__item:hover {
+    background: rgba(83,83,83,.8)
+}
+
+.crypto-page-exchange-service .postcard:before, .our-crypto-services .postcard:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+    border-radius: 10px
+}
+
+.crypto-page-exchange-service .postcard:hover .postcard__img, .our-crypto-services .postcard:hover .postcard__img {
+    transform: scale(1.2)
+}
+
+.our-creation ul li {
+    color: #000;
+    line-height: 1.8;
+    font-size: 16px
+}
+
+    .our-creation ul li .fas {
+        color: #f26622
+    }
+
+.ecommerce-our-feature h4, .our-creation p {
+    margin-top: 10px
+}
+
+.crypto-solutions img {
+    border-radius: 10px
+}
+
+.content-section-area-about {
+    background-image: url(../img/why_altcoin.jpg);
+    background-clip: initial;
+    background-color: rgba(0,0,0,0);
+    background-origin: initial;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 0
+}
+
+.about-left-hanf {
+    background: #124981;
+    border-radius: 2px;
+    box-shadow: 0 5px 23px 0 rgb(0 0 0 / 30%);
+    float: right;
+    padding: 30px 30px 0;
+    position: relative;
+    width: 50%;
+    z-index: 1
+}
+
+.about-right-hanf {
+    width: 50%
+}
+
+.box.bg-cello.section-relative {
+    width: 97%
+}
+
+    .box.bg-cello.section-relative h3 {
+        color: #fff;
+        font-size: 45px;
+        margin-bottom: 25px
+    }
+
+    .box.bg-cello.section-relative h4 {
+        color: #fff;
+        position: relative;
+        font-size: 18px
+    }
+
+        .box.bg-cello.section-relative h4 span {
+            position: absolute;
+            left: -49px;
+            top: -7px;
+            width: 40px;
+            height: 40px;
+            background: #124981;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1
+        }
+
+            .box.bg-cello.section-relative h4 span:after {
+                content: '';
+                width: 50%;
+                height: 100%;
+                position: absolute;
+                right: 0;
+                top: 0;
+                background: #f26622;
+                border-radius: 0 150px 150px 0;
+                z-index: -1
+            }
+
+    .box.bg-cello.section-relative p {
+        color: #fff;
+        margin-bottom: 25px;
+        border-radius: 50%
+    }
+
+.list-marked li {
+    color: #fff;
+    padding: 5px 0
+}
+
+.crypto-accordian .card .card-body {
+    background: #e3e3e3
+}
+
+.crypto-accordian ul, .ecommerce-industries ul, .why-taksh-about-box ul {
+    padding-left: 25px
+}
+
+    .crypto-accordian ul li {
+        color: #000;
+        list-style: circle
+    }
+
+        .crypto-accordian ul li i {
+            color: #f26622;
+            line-height: 2
+        }
+
+.crypto-accordian .card-header {
+    padding: 0;
+    position: relative
+}
+
+    .crypto-accordian .card-header span {
+        height: 50px;
+        width: 50px;
+        background: #182d41;
+        transition: .3s ease-in-out;
+        position: absolute;
+        left: -50px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom-left-radius: 10px;
+        border-top-left-radius: 10px;
+        box-shadow: 0 5px 5px -5px #000
+    }
+
+        .crypto-accordian .card-header span i {
+            color: #fff;
+            transition: .3s ease-in-out
+        }
+
+            .crypto-accordian .card-header span i.rotate, .crypto-accordian .card-header span.rotate-arrow {
+                transform: rotate(180deg)
+            }
+
+    .crypto-accordian .card-header button {
+        text-align: left;
+        width: 100%;
+        text-decoration: none;
+        padding: 12px 20px;
+        color: #000
+    }
+
+.ico-dev-top img {
+    height: 100%;
+    object-fit: cover;
+    object-position: left
+}
+
+.launch {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0,0,0,.2);
+    display: block;
+    overflow: hidden;
+    height: 100%
+}
+
+    .launch .launch-preview img {
+        width: 100px;
+        -webkit-filter: invert(1);
+        filter: invert(1)
+    }
+
+    .launch:hover .launch-preview img {
+        animation: 1.5s linear infinite img-scale
+    }
+
+@keyframes img-scale {
+    0%,100% {
+        transform: scale(1)
+    }
+
+    50% {
+        transform: scale(1.2)
+    }
+}
+
+.launch h3 {
+    margin: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 20px
+}
+
+.launch h2 {
+    margin: 10px 0
+}
+
+.launch-preview {
+    background-color: #00344c;
+    color: #fff;
+    padding: 0 22px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.launch-content {
+    padding: 15px
+}
+
+.launch-preview a {
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+    opacity: .6;
+    margin-top: 30px
+}
+
+.crypto-page-provide-service .ico-token-logo {
+    border: 1px solid #ccc;
+    display: block;
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0 20px 30px -20px hsl(229deg 6% 66%);
+    width: 65px;
+    height: 65px
+}
+
+.img-parent {
+    background: rgba(235 84 104 / 40%);
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px
+}
+
+.bitcoin-feature .br-none, .crypto-page-provide-service .br-none {
+    border-right: 0
+}
+
+.bitcoin-feature .bb-none, .crypto-page-provide-service .bb-none {
+    border-bottom: 0
+}
+
+.crypto-page-prelaunching .mt-card, .postlaunch-section .mt-card {
+    margin-top: 60px;
+    height: auto;
+    width: 100%
+}
+
+.crypto-page-prelaunching h2, .defi-exchange-ser .col-lg-4 {
+    margin-bottom: 60px
+}
+
+.pre-launch-content h4 {
+    margin-bottom: 20px
+}
+
+.crypto-page-prelaunching img {
+    border-radius: 50px;
+    box-shadow: 0 20px 30px -20px hsl(229deg 6% 66%);
+    height: 100%;
+    width: 100%;
+    object-fit: cover
+}
+
+.crypto-page-prelaunching .card {
+    padding: 30px 0 0;
+    border-radius: 50px;
+    border: 1px dashed #0090d3;
+    box-shadow: 0 20px 30px -20px #a3a5ad
+}
+
+.arrow-down::before, .arrow-up::before {
+    position: absolute;
+    right: 0;
+    margin: auto;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    width: 0;
+    height: 0;
+    content: '';
+    left: 0
+}
+
+.serial-number {
+    position: absolute;
+    left: -30px;
+    width: 120px;
+    height: 75px;
+    top: -40px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.arrow-down::before {
+    bottom: -20px;
+    border-top: 20px solid #f26622
+}
+
+.arrow-up::before {
+    top: -20px;
+    border-bottom: 20px solid #f26622
+}
+
+.cryptopage-why-choose-us .circles ul {
+    list-style: none;
+    display: flex;
+    justify-content: center
+}
+
+    .cryptopage-why-choose-us .circles ul li {
+        float: left;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        text-align: center;
+        margin-left: -20px;
+        position: relative;
+        transition: .3s ease-in-out
+    }
+
+.circles ul li:after {
+    content: '';
+    background-image: url(../img/circle-end.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 20px;
+    height: 85px
+}
+
+.circles ul li:first-child:after, .smart-contract-services .div-line .row:last-child:after, .why-shool-erp .box.bg-cello.section-relative h4 span:after {
+    content: none
+}
+
+.circles ul li {
+    color: #fff;
+    display: block;
+    height: 100%;
+    font-size: 16px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+    .circles ul li span {
+        display: block
+    }
+
+        .circles ul li span:last-child {
+            padding-top: 7px;
+            line-height: normal
+        }
+
+    .circles ul li img {
+        height: 55px
+    }
+
+    .circles ul li:first-child {
+        background: #291d64;
+        margin-left: 0
+    }
+
+    .circles ul li:nth-child(2) {
+        background: #195260
+    }
+
+    .circles ul li:nth-child(3) {
+        background: #1b7246
+    }
+
+    .circles ul li:nth-child(4) {
+        background: #876525
+    }
+
+    .circles ul li:nth-child(5) {
+        background: #1b4568
+    }
+
+    .circles ul li:last-child {
+        background: #291d64
+    }
+
+.how-start-ico-funding .card::before {
+    border-radius: 15px;
+    box-shadow: 2px 0 20px rgba(0,0,0,.1);
+    bottom: 70px;
+    content: '';
+    left: 0;
+    position: absolute;
+    right: 35px;
+    top: 0
+}
+
+.how-start-ico-funding .card:nth-child(odd)::before {
+    background-image: linear-gradient(135deg,#ffd3a5 10%,#fd6585 100%)
+}
+
+.how-start-ico-funding .card:nth-child(2n)::before {
+    background-image: linear-gradient(315deg,#828f8e 50%,#0f0e2e 80%)
+}
+
+.how-start-ico-funding .card {
+    position: relative;
+    padding-bottom: 2.75rem;
+    border: 0
+}
+
+.how-start-ico-funding .card__block--main {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 2px 5px 25px rgba(0,0,0,.15);
+    padding: 20px;
+    position: relative;
+    z-index: 2;
+    height: 100%
+}
+
+.how-start-ico-funding .card__title {
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 0;
+    font-size: 20px
+}
+
+.how-start-ico-funding .card__text {
+    margin-top: .66rem;
+    color: #000;
+    margin-bottom: 0
+}
+
+.crypto-page-exchange-service .postcard {
+    display: block;
+    box-shadow: 0 4px 21px -12px rgba(0,0,0,.66);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    color: #777;
+    height: 100%
+}
+
+.crypto-page-exchange-service .postcard__title {
+    font-size: 17px
+}
+
+.crypto-page-exchange-service .postcard__img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    transition: .3s ease-out
+}
+
+.crypto-page-exchange-service .postcard__img_link {
+    display: block;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover
+}
+
+.crypto-page-exchange-service .postcard__bar {
+    width: 50px;
+    height: 3px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #1612c5;
+    transition: width .2s
+}
+
+.crypto-page-exchange-service .postcard__text {
+    padding: 15px 25px;
+    position: relative;
+    color: #000
+}
+
+    .crypto-page-exchange-service .postcard__text:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 0;
+        height: 0;
+        background: #639;
+        z-index: -1;
+        transition: .3s ease-in-out
+    }
+
+.crypto-page-exchange-service .postcard__preview-txt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+    height: 100%
+}
+
+.crypto-page-exchange-service tag__item:hover {
+    background: rgba(83,83,83,.8)
+}
+
+.crypto-page-exchange-avail .serial-number {
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 1px double rgba(242,102,34,.5);
+    height: 120px;
+    top: -60px;
+    padding: 20px
+}
+
+    .benefits-box .benefits-icon img, .calling-btn img, .crypto-mlm-contract .card img, .crypto-mlm-ser .card .card-img-top, .crypto-page-exchange-avail .serial-number img, .our-value-about-bx img, .type-img {
+        width: 100%
+    }
+
+.crypto-page-exchange-avail .card {
+    padding-top: 50px;
+    border-radius: 20px;
+    border: 1px solid #1613a9;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%)
+}
+
+.exclusive-exchange-crypto h5 {
+    font-size: 22px
+}
+
+.exclusive-exchange-crypto ul.custom-bullet li {
+    position: relative;
+    padding-left: 20px
+}
+
+.exclusive-exchange-crypto ul li {
+    color: #000;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center
+}
+
+    .exclusive-exchange-crypto ul li i {
+        color: #f26622;
+        font-size: 20px;
+        margin-right: 10px;
+        text-align: center;
+        width: 1.5rem
+    }
+
+.event-block {
+    margin: auto;
+    overflow: hidden;
+    border-radius: 50px 5px;
+    text-align: center;
+    box-shadow: 9px 10px 21px -5px #0000002e;
+    position: relative;
+    z-index: 10;
+    height: 100%;
+    transition: .3s ease-in-out
+}
+
+    .event-block:hover {
+        box-shadow: 0 10px 21px -5px #100d70
+    }
+
+    .event-block:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,.1);
+        z-index: -1
+    }
+
+    .event-block .event-block-rotate {
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        padding: 30px;
+        border-radius: 50px 5px;
+        box-shadow: 9px 10px 21px -5px #fff
+    }
+
+    .event-block p {
+        color: #000;
+        text-align: left;
+        margin-bottom: 0
+    }
+
+.ITians p, .Solutions-We-Offe-txt p, .who-we-are p {
+    font-family: JOST-LIGHT;
+    text-align: justify;
+    line-height: normal
+}
+
+.event-block .titular {
+    display: block;
+    margin-bottom: 20px;
+    color: #000;
+    font-size: 18px
+}
+
+.event-block .the-day {
+    max-width: 150px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 900;
+    letter-spacing: 3px;
+    position: relative;
+    color: #fff
+}
+
+    .event-block .the-day:before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translatex(-50%);
+        -moz-transform: translatex(-50%);
+        -ms-transform: translatex(-50%);
+        -o-transform: translatex(-50%);
+        transform: translatex(-50%);
+        width: 65%;
+        height: 1px;
+        border-top: 1px solid #fff;
+        z-index: 0
+    }
+
+    .event-block .the-day > span {
+        display: block;
+        position: absolute;
+        padding: 0 .5rem;
+        background-color: #9e2fb3;
+        z-index: 1;
+        border-radius: 10px;
+        font-size: 12px;
+        line-height: 1.2;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%)
+    }
+
+.ecommerce-choose-us .card {
+    position: relative;
+    text-align: center;
+    background: linear-gradient(#182d41,#301406,#182d41);
+    border-radius: 2px;
+    box-shadow: 0 6px 12px -3px rgba(0,0,0,.3);
+    color: #fff;
+    padding: 30px;
+    height: 100%
+}
+
+.ecommerce-choose-us .logo {
+    font-size: 24px;
+    position: relative
+}
+
+    .ecommerce-choose-us .logo:after, .ecommerce-choose-us .logo:before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        border-top: 3px solid #fff;
+        transform: translateY(-50%)
+    }
+
+    .ecommerce-choose-us .logo:before {
+        right: 0;
+        width: 35%
+    }
+
+    .ecommerce-choose-us .logo:after {
+        left: 0;
+        width: 35%
+    }
+
+    .ecommerce-choose-us .logo span {
+        transform: translateY(-40%);
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 10px
+    }
+
+        .blockchain-services .media-img, .ecommerce-choose-us .logo span img {
+            width: 70px
+        }
+
+.ecommerce-choose-us .announcement {
+    position: relative;
+    border: 3px solid currentColor;
+    border-top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 75px 15px 15px
+}
+
+    .ecommerce-choose-us .announcement:after, .ecommerce-choose-us .announcement:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        height: 0;
+        width: 15px
+    }
+
+    .ecommerce-choose-us .announcement:before {
+        left: -3px
+    }
+
+    .ecommerce-choose-us .announcement:after {
+        right: -3px
+    }
+
+.ecommerce-our-feature .featured-item {
+    padding: 20px;
+    background: #fff;
+    position: relative;
+    -webkit-box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    -moz-box-shadow: 0 0 15px 0 rgba(72,73,121,.15);
+    box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    z-index: 1;
+    transition: .3s ease-in-out
+}
+
+.consulting-help .card .card-body, .defi-exchange-ul ul, .featured-flex {
+    display: flex
+}
+
+.ecommerce-our-feature .featured-item:hover:after {
+    opacity: .2;
+    animation: 15s linear infinite scaling
+}
+
+.ecommerce-our-feature .featured-item .featured-icon {
+    position: relative;
+    z-index: 1;
+    width: 60px;
+    height: 60px
+}
+
+    .ecommerce-our-feature .featured-item .featured-icon span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: -1;
+        display: none
+    }
+
+    .ecommerce-our-feature .featured-item .featured-icon img {
+        width: 60px;
+        height: 50px
+    }
+
+    .ecommerce-our-feature .featured-item .featured-icon span::before {
+        background: #d4f8e6;
+        bottom: 0;
+        right: -10px
+    }
+
+.ecommerce-our-feature .featured-icon span::after {
+    background: #cdf3f6;
+    height: 40px;
+    left: -10px;
+    top: 5px;
+    width: 40px
+}
+
+.ecommerce-our-feature .featured-item .featured-icon span::after, .ecommerce-our-feature .featured-item .featured-icon span::before {
+    content: '';
+    border-radius: 50%;
+    content: "";
+    height: 60px;
+    position: absolute;
+    width: 60px;
+    z-index: -1
+}
+
+.ecommerce-our-feature .featured-item:after {
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 100%;
+    z-index: -1;
+    background: url(../img/04.png) center center/cover no-repeat;
+    transition: .3s ease-in-out
+}
+
+@keyframes scaling {
+    0%,100% {
+        transform: scale(1)
+    }
+
+    50% {
+        transform: scale(.8)
+    }
+}
+
+.rotateme {
+    animation-name: rotateme;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear
+}
+
+@keyframes rotateme {
+    0% {
+        transform: rotate(0)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+.ecommerce-our-feature .featured-item::before {
+    content: "";
+    content: '';
+    transform: scale(0);
+    background: #005bea;
+    background: linear-gradient(180deg,#005bea 0,#2575fc 80%);
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 1
+}
+
+.ecommerce-our-feature .featured-item:hover {
+    -webkit-box-shadow: 0 20px 50px 0 rgb(153 153 153 / 50%);
+    -moz-box-shadow: 0 20px 50px 0 rgba(153,153,153,.5);
+    box-shadow: 0 20px 50px 0 rgb(153 153 153 / 50%)
+}
+
+.ecommerce-our-feature .featured-item .featured-title h4 {
+    margin: 0;
+    font-size: 20px;
+    padding-left: 15px;
+    text-transform: capitalize;
+    font-weight: 700
+}
+
+.ecommerce-our-feature .col-lg-4 {
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+.altcoin-benifits p, .benefits-box p, .bitcoin-feature p, .coins-services .card p, .crypto-consultation-our-feature h3, .crypto-consultation-our-feature h6, .crypto-consultation-our-feature p, .crypto-mlm-contract .card p, .crypto-mlm-reason p, .crypto-page-provide-service p, .ecommerce-our-feature h4, .ecommerce-our-feature p, .ido-launch .card p, .ido-services .card p, .single-services-box .services-content, .smart-contract-services .card p {
+    color: #000
+}
+
+.ecommerce-our-feature .bb, .ecommerce-our-feature .br {
+    position: relative;
+    padding: 15px;
+    height: 100%
+}
+
+    .ecommerce-our-feature .bb:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        margin: auto;
+        border-bottom: 1px dashed #000;
+        width: 85%;
+        height: 1px
+    }
+
+    .ecommerce-our-feature .br:before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        top: 0;
+        right: -16px;
+        margin: auto;
+        border-right: 1px dashed #000;
+        height: 85%;
+        width: 1px
+    }
+
+.whatsapp-btn {
+    background: #00e676;
+    border-bottom: 2px solid #24744f;
+    margin: 5px;
+    box-shadow: 0 2px 0 #24744f
+}
+
+.telegram-btn {
+    background: #27a7e5;
+    box-shadow: none;
+    border-bottom: 0;
+    margin: 5px
+}
+
+    .telegram-btn i, .whatsapp-btn i {
+        font-size: 20px;
+        margin-left: 3px
+    }
+
+.ecommerce-process h3, .smart-contract-indrustry h4 {
+    margin-top: 8px
+}
+
+.ecommerce-industry-box {
+    padding: 15px 0;
+    box-shadow: 1px 1px 20px 1px #e6e6e6;
+    margin: 15px 0
+}
+
+.ecommerce-process-box {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%);
+    position: relative;
+    z-index: 1;
+    transition: .3s ease-in-out;
+    overflow: hidden
+}
+
+    .ecommerce-process-box:after {
+        content: '';
+        position: absolute;
+        left: 9%;
+        top: 13%;
+        width: 5px;
+        height: 5px;
+        border-radius: 20px;
+        z-index: -1;
+        transition: .3s ease-in-out
+    }
+
+.ecom-color1:after {
+    background: #65b5db
+}
+
+.ecom-color2:after {
+    background: #eb5468
+}
+
+.ecom-color3:after {
+    background: #fbba58
+}
+
+.ecom-color4:after {
+    background: #6bbb94
+}
+
+.ecommerce-process-box:hover:after {
+    transform: scale(150)
+}
+
+.ecommerce-process-box h4, .ecommerce-process-box p, .why-erp .card {
+    transition: .3s ease-in-out
+}
+
+.ecommerce-process-box:hover span {
+    background: #fff !important;
+    color: #000
+}
+
+.ecommerce-process-box span {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #65b5db;
+    border-radius: 50%;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 3px;
+    margin-bottom: 8px;
+    font-weight: 700;
+    transition: .3s ease-in-out
+}
+
+.benifits-coins-box, .ecommerce-process-center-box {
+    display: flex;
+    justify-content: center;
+    text-align: center
+}
+
+.ecommerce-process-center-box {
+    align-content: center;
+    flex-direction: column
+}
+
+    .ecommerce-process-center-box img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        animation: 15s linear infinite rotate
+    }
+
+@keyframes rotate {
+    from {
+        transform: rotate(0)
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+.ecommerce-industries ul li {
+    margin-bottom: 10px;
+    position: relative
+}
+
+    .ecommerce-industries ul li:after {
+        content: '';
+        position: absolute;
+        left: -25px;
+        top: 2px;
+        width: 17px;
+        height: 17px;
+        background-image: url(../img/checked.svg);
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .ecommerce-industries ul li img {
+        margin-right: 5px
+    }
+
+.type-of-coin-box {
+    padding: 20px;
+    -webkit-box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    -moz-box-shadow: 0 0 15px 0 rgba(72,73,121,.15);
+    box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    transition: .3s ease-in-out;
+    border: 1px solid #f2662242;
+    border-radius: 4px;
+    height: 100%
+}
+
+    .type-of-coin-box:hover {
+        -webkit-box-shadow: 0 20px 50px 0 rgb(17 22 51 / 20%);
+        -moz-box-shadow: 0 20px 50px 0 rgb(17 22 51 / 20%);
+        box-shadow: 0 20px 50px 0 rgb(17 22 51 / 20%)
+    }
+
+.crm_email_best img, .email_works_img img, .service_img img, .type-img img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 10px
+}
+
+.coins-services .col-lg-4 {
+    margin: 20px 0
+}
+
+.coins-services .card {
+    padding-top: 35px;
+    border-radius: 5px;
+    border: 1px groove rgb(242 102 34);
+    height: 100%
+}
+
+.thumbnail, .thumbnail:after {
+    border-radius: 8px;
+    transition: .3s ease-in-out
+}
+
+.coins-services .card .card-img-top {
+    width: 80px;
+    position: absolute;
+    right: -10px;
+    top: -30px;
+    background: #fff
+}
+
+.coins-services-info {
+    position: relative;
+    padding: 40px 25px 25px;
+    margin-top: 30px;
+    border-left: 1px solid #a16733;
+    border-bottom: 1px solid #a16733;
+    height: 100%
+}
+
+.coins-services-img img, .crm_email_benefits .crm_email_benefits_img img {
+    width: 60px;
+    height: 60px
+}
+
+.coins-services-img {
+    width: 50px;
+    padding: 0 0 0 50px;
+    margin: 0;
+    position: absolute;
+    top: -29px;
+    left: 0
+}
+
+    .coins-services-img:after {
+        content: '';
+        width: 40px;
+        height: 1px;
+        background: #a16733;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        margin: auto
+    }
+
+.coins-feature:after, .thumbnail:after {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    content: '';
+    left: 0
+}
+
+.thumbnail {
+    padding: 20px;
+    height: 100%;
+    box-shadow: 0 2px 0 #020819;
+    position: relative
+}
+
+    .thumbnail:hover h6, .thumbnail:hover p {
+        transition: .3s ease-in-out;
+        color: #fff
+    }
+
+    .thumbnail:after {
+        bottom: 0;
+        background: #020819;
+        height: 0
+    }
+
+    .advanage-multi-wallet .advanage-multi-wallet-box:hover:after, .thumbnail:hover:after {
+        height: 100%
+    }
+
+    .thumbnail img, .why-erp-we img {
+        width: 60px;
+        margin-right: 10px
+    }
+
+.coins-feature:after {
+    top: 0;
+    background-image: url(../img/feature-ab.svg);
+    background-size: cover;
+    height: 100%;
+    opacity: .2
+}
+
+.timeline h3:after, .timeline-nodes:nth-child(2n) h3::after {
+    top: 50%;
+    transform: translate(0,-50%);
+    width: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    content: ""
+}
+
+.coins-feature .d-flex {
+    position: relative;
+    height: 100%
+}
+
+    .coins-feature .d-flex:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 2px;
+        height: 3.5em;
+        background: #182d41
+    }
+
+.coins-feature-img img {
+    width: 5.5em;
+    height: 3.5em
+}
+
+.why-coins {
+    background-image: url(../img/bg22.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat
+}
+
+    .why-coins .card {
+        border-radius: 5px;
+        overflow: hidden;
+        height: 100%
+    }
+
+        .why-coins .card:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: 5px;
+            background: #cfceea
+        }
+
+    .why-coins .isotope {
+        margin-bottom: -150px
+    }
+
+.benifits-coins-box {
+    background: #0172d0;
+    align-items: center;
+    margin: auto auto 30px;
+    width: 170px;
+    height: 140px;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 5px 0 #182d41
+}
+
+    .benifits-coins-box img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 5px
+    }
+
+    .benifits-coins-box h4, .smart-contract-process ul li p, .why-us-defi-exchange .card p {
+        margin: 0;
+        color: #fff
+    }
+
+.pdg-top {
+    padding-top: 100px
+}
+
+.timeline h3 {
+    background: #000;
+    color: #fff;
+    padding: 15px;
+    position: relative;
+    margin: 0
+}
+
+.timeline p {
+    color: #000;
+    margin: 0;
+    padding: 15px
+}
+
+.timeline h3:after {
+    position: absolute;
+    left: 100%;
+    border-left: 10px solid #000
+}
+
+.timeline-nodes:nth-child(2n) h3::after {
+    position: absolute;
+    right: 100%;
+    left: -20px;
+    border-right: 10px solid #000;
+    border-left: 10px solid transparent
+}
+
+.timeline-icons {
+    width: 80px;
+    height: 80px;
+    background: #000;
+    border-radius: 50%;
+    display: block;
+    color: #fff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.a1 .a2 .col-md-10:nth-child(odd) .row, .timeline-nodes:nth-child(2n) {
+    flex-direction: row-reverse
+}
+
+.timeline:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 37px;
+    left: -1%;
+    right: 0;
+    width: 1px;
+    margin: auto;
+    height: 84%;
+    background: #000;
+    z-index: 0;
+    transform: translateX(-50%)
+}
+
+.coins-services .media-img {
+    width: 90px
+}
+
+.coins-services .crypto-process-bg .overlay-bg {
+    background: #1f3c58
+}
+
+.coins-services .crypto-process-bg:hover img {
+    animation: .5s linear coinflip
+}
+
+@keyframes coinflip {
+    0%,100% {
+        transform: rotateY(0)
+    }
+
+    50% {
+        transform: rotateY(180deg)
+    }
+}
+
+.coins-services .crypto-process-bg {
+    border: 1px solid #fff;
+    box-shadow: 0 0 15px #fff;
+    height: 430px;
+    padding-bottom: 0
+}
+
+    .coins-services .crypto-process-bg h3, .coins-services .crypto-process-bg p, .why-blockchain .why-blockchaonbox p {
+        text-align: left
+    }
+
+.benefits-box {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -.75rem;
+    margin-right: -.75rem
+}
+
+    .benefits-box .benefits-icon {
+        height: 4rem !important;
+        width: 4rem;
+        float: left;
+        padding-right: 15px
+    }
+
+    .benefits-box h4 {
+        font-size: 16px
+    }
+
+.benefits-content {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0%;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    min-width: 0;
+    max-width: 100%;
+    padding: 0 .75rem
+}
+
+.crm-benefits-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding-top: 40px
+}
+
+.benefits-crm-para p:after {
+    content: '';
+    position: absolute;
+    left: -25px;
+    top: 3px;
+    bottom: 0;
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/check.svg);
+    background-size: cover
+}
+
+.crm-lead-services-why-choose .card {
+    box-shadow: 0 0 35px rgb(140 152 164 / 20%);
+    position: relative;
+    border-radius: 10px
+}
+
+.crm-lead-services-why-choose {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-image: url(../img/bg-3.svg);
+    background-size: auto 100%
+}
+
+    .crm-lead-services-why-choose .card:before {
+        content: '';
+        position: absolute;
+        top: auto;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+        margin-bottom: 0;
+        height: 3px;
+        width: 100%;
+        background: linear-gradient(to right,#111,#ddd);
+        transition: .3s ease-in-out
+    }
+
+    .crm-lead-services-why-choose .card:hover:before {
+        height: 10%
+    }
+
+    .crm-lead-services-why-choose .card-body {
+        z-index: 10
+    }
+
+.why-blockchain .card:after, .why-blockchain .card:before {
+    margin: auto;
+    width: 70px;
+    background: #f26622;
+    position: absolute;
+    bottom: 0;
+    content: '';
+    z-index: -1;
+    top: 0;
+    height: 80%
+}
+
+.crm-lead-box {
+    border-radius: 8px;
+    padding: 40px;
+    margin-bottom: 30px
+}
+
+.crm-lead-advantages .carousel-caption {
+    background: #fff;
+    left: 5%;
+    right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left
+}
+
+.blockchain-services-item {
+    border-radius: 8px;
+    transition: .3s ease-in-out;
+    position: relative;
+    background-color: #fff;
+    z-index: 2;
+    padding: 20px;
+    border: 1px solid #ebebeb;
+    height: 100%
+}
+
+    .blockchain-services-item .feature-icon, .why-blockchain .why-blockchaonbox img {
+        width: 70px;
+        margin-bottom: 20px
+    }
+
+    .blockchain-services-item:hover {
+        box-shadow: 0 12px 30px rgb(0 0 0 / 20%)
+    }
+
+.blockchain-services .crypto-process-bg {
+    height: 100%;
+    padding: 0
+}
+
+.crypto-process-bg .num-bullet {
+    font-size: 30px
+}
+
+.blockchain-services .media-body {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.blockchain-services .overlay-bg {
+    background: rgb(128 42 1)
+}
+
+.num-bullet-parent {
+    background: #182d41;
+    padding: 5px 15px
+}
+
+.why-blockchain {
+    background-image: url(../img/blockchain-overlay.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1
+}
+
+    .why-blockchain:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,.5)
+    }
+
+    .why-blockchain .card {
+        padding: 20px;
+        position: relative
+    }
+
+        .why-blockchain .card:after {
+            left: -71px
+        }
+
+        .why-blockchain .card:before {
+            right: -71px
+        }
+
+    .single-services-box .services-content h3, .why-blockchain .col-lg-3 {
+        margin-bottom: 15px
+    }
+
+    .why-blockchain .why-blockchaonbox {
+        background: #fff;
+        margin: 15px auto;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        padding: 30px;
+        height: 400px
+    }
+
+.erp-service .card, .team-box .card, .type-of-blockchain .card {
+    border: 0
+}
+
+    .type-of-blockchain .card .content {
+        padding: 20px 20px 0
+    }
+
+        .type-of-blockchain .card .content span {
+            background: #f26622;
+            display: inline-block;
+            border-radius: 50%;
+            color: #fff;
+            font-size: 25px;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-block: 15px
+        }
+
+        .type-of-blockchain .card .content h5 {
+            color: #000;
+            z-index: 1;
+            transition: .5s;
+            margin-bottom: 15px
+        }
+
+        .type-of-blockchain .card .content .heading-text img {
+            width: 250px;
+            height: 150px;
+            position: absolute;
+            right: 0;
+            top: -50px
+        }
+
+    .type-of-blockchain .card p {
+        font-size: 1rem;
+        font-weight: 300;
+        color: #000;
+        z-index: 1;
+        transition: .5s
+    }
+
+.blockchain-solutions .card {
+    border: 1px solid rgb(164 166 168);
+    border-radius: 20px 0;
+    height: 100%
+}
+
+.blockchain-solutions .serial-number {
+    position: static;
+    margin-left: 20px;
+    right: auto;
+    left: -15px
+}
+
+.blockchain-help ul li {
+    font-size: 1rem;
+    margin-block: 15px;
+    position: relative
+}
+
+    .blockchain-help ul li:after {
+        font-family: "Font Awesome 5 Free";
+        position: absolute;
+        content: '\f058';
+        left: -30px;
+        top: -2px;
+        font-size: 22px;
+        color: #e45d1a
+    }
+
+.why-taksh-ul {
+    padding-right: 30px
+}
+
+    .why-taksh-ul li {
+        margin-bottom: 15px;
+        color: #000;
+        position: relative
+    }
+
+.our-clients .client-box {
+    background: #182d41;
+    padding: 20px;
+    overflow: hidden
+}
+
+    .our-clients .client-box .quote-img {
+        margin-bottom: 15px;
+        width: 25px
+    }
+
+    .our-clients .client-box .quote-icon {
+        font-size: 30px;
+        color: #fff
+    }
+
+    .our-clients .client-box .qoute-right {
+        float: right
+    }
+
+    .our-clients .client-box .client-img {
+        width: 60px;
+        border-radius: 50%;
+        margin: auto
+    }
+
+.team-box {
+    margin-bottom: 5px
+}
+
+.about-team-box {
+    padding-left: 20px
+}
+
+.our-team .owl-nav button {
+    background: #182d41 !important;
+    width: 40px;
+    height: 40px;
+    border-radius: 50% !important;
+    color: #fff !important;
+    font-size: 30px !important;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto !important;
+    left: -30px
+}
+
+    .our-team .owl-nav button:last-child {
+        left: auto;
+        right: -30px
+    }
+
+.our-team .owl-nav span {
+    padding-bottom: 5px
+}
+
+.who-we-are p {
+    font-size: 20px;
+    color: #565656
+}
+
+.who-we-are {
+    padding: 50px 0
+}
+
+.h-border:before {
+    width: 50px;
+    height: 5px;
+    transition: .5s;
+    background-color: #f5a623;
+    display: block;
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -15px
+}
+
+.h-border {
+    position: relative;
+    font-family: JOST-MEDIUM;
+    margin-bottom: 30px;
+    padding-bottom: 0
+}
+
+.ITians p, .Solutions-We-Offe-txt p {
+    font-size: 26px;
+    color: #565656
+}
+
+.ITians:before {
+    position: absolute;
+    z-index: -1;
+    content: "";
+    width: 100%;
+    height: 600px;
+    left: 0;
+    top: 0;
+    background-image: url(../img/pattern-bg.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    background-position: center center
+}
+
+.vision-mission-box {
+    padding: 30px 30px 30px 65px;
+    border-radius: 0;
+    transition: .5s;
+    z-index: 1;
+    background: 0 0;
+    text-align: left;
+    margin-left: 50px;
+    border: 1px solid #000;
+    position: relative
+}
+
+    .vision-mission-box:before {
+        text-align: center;
+        border: 9px double #003360;
+        -webkit-mask-image: url(../img/grunge.png);
+        -webkit-mask-size: 944px 604px;
+        mix-blend-mode: multiply;
+        z-index: 20;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        bottom: 0;
+        pointer-events: none
+    }
+
+    .vision-mission-box:hover .wraper-effect {
+        width: 350px;
+        height: 350px
+    }
+
+    .vision-mission-box span {
+        width: 100px;
+        height: 100px;
+        display: flex;
+        position: absolute;
+        left: -50px;
+        background: #fff;
+        padding: 3px;
+        overflow: hidden;
+        z-index: 1111111;
+        align-items: center;
+        justify-content: center
+    }
+
+        .vision-mission-box span img {
+            width: 80%;
+            object-fit: cover;
+            height: 80%
+        }
+
+    .vision-mission-box:hover .wraper-effect:after {
+        width: 150px;
+        height: 150px
+    }
+
+    .vision-mission-box:hover .wraper-effect:before {
+        width: 250px;
+        height: 250px
+    }
+
+.wraper-effect {
+    border-radius: 50%;
+    position: absolute;
+    transition: .3s ease-in-out;
+    background-color: hsla(0,0%,100%,.2);
+    z-index: -1;
+    right: -150px;
+    bottom: -150px;
+    width: 0;
+    height: 0
+}
+
+    .wraper-effect:after, .wraper-effect:before {
+        content: '';
+        border-radius: 50%;
+        position: absolute;
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        top: 50%;
+        left: 50%;
+        z-index: -1;
+        width: 0;
+        height: 0
+    }
+
+.about-caro-box h5 span:after, .solution-we-offer:before {
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    content: ''
+}
+
+.wraper-effect:before {
+    background-color: hsla(0,0%,100%,.2);
+    transition: .5s ease-in-out
+}
+
+.wraper-effect:after {
+    background-color: #105b9b;
+    transition: .5s ease-in-out
+}
+
+.about-caro-box p, .vision-mission-box p {
+    color: #565656;
+    margin: 0;
+    font-family: JOST-REGULAR;
+    text-align: justify
+}
+
+.solution-we-offer:before {
+    background: #e8f4ffe0
+}
+
+.solution-we-offer {
+    background: url(../img/04.png);
+    position: relative
+}
+
+.about-caro-box {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 5px double #c1dcf5;
+    min-height: 335px
+}
+
+.hexgon-bx {
+    background: #01325d;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: drop-shadow(0 0 10px black);
+    margin-bottom: 15px;
+    clip-path: polygon(50% 0%,83% 12%,100% 43%,94% 78%,68% 100%,32% 100%,6% 78%,0% 43%,17% 12%)
+}
+
+    .hexgon-bx img {
+        width: 40px
+    }
+
+.about-caro-box h5 span {
+    padding: 8px;
+    margin-right: 15px;
+    position: relative;
+    z-index: 1
+}
+
+.about-caro-box:hover:after {
+    height: 168px
+}
+
+.about-caro-box h5 span:after {
+    left: 0;
+    background: #005a52;
+    z-index: -1;
+    border-radius: 10px;
+    animation: 3s linear infinite paused rotate;
+    -webkit-animation: 3s linear infinite rotate;
+    -moz-animation: 3s linear infinite rotate
+}
+
+.about-carousel.owl-carousel .owl-nav button.owl-next, .about-carousel.owl-carousel .owl-nav button.owl-prev, .about-carousel.owl-carousel button.owl-dot {
+    width: 50px;
+    height: 50px;
+    background: #005a52;
+    font-size: 40px;
+    border-radius: 10px;
+    transition: .3s ease-in-out
+}
+
+.about-carousel.owl-carousel .owl-nav button span {
+    margin-top: -7px;
+    display: block
+}
+
+.testimonial {
+    padding-bottom: 180px !important
+}
+
+.why-taksh-about img {
+    height: 530px;
+    max-width: initial
+}
+
+.why-taksh-about {
+    background: #111633;
+    position: relative;
+    overflow: hidden
+}
+
+    .why-taksh-about .col-lg-6:first-child {
+        padding-top: 20px;
+        padding-bottom: 20px
+    }
+
+.we-offering-crm:after, img.case-sty {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0
+}
+
+img.case-sty {
+    pointer-events: none;
+    left: -20%;
+    opacity: .2
+}
+
+.why-taksh-about-box ul li {
+    color: #fff;
+    margin-bottom: 10px;
+    position: relative
+}
+
+    .why-taksh-about-box ul li:after {
+        content: '';
+        position: absolute;
+        left: -25px;
+        top: 5px;
+        width: 12px;
+        height: 12px;
+        transform: rotate(45deg);
+        background: #f5a623
+    }
+
+.our-value-about-bx {
+    position: relative;
+    text-align: justify
+}
+
+    .our-value-about-bx span {
+        display: block;
+        background: #01213b;
+        width: 70px;
+        height: 70px;
+        padding: 10px;
+        margin-bottom: 15px
+    }
+
+.digital_subhelp_icon, .we-offering-crm .card, .why-erp-we, .why-us-defi-exchange .card {
+    padding: 20px
+}
+
+    .we-offering-crm .card img {
+        width: 60px;
+        margin-right: 15px
+    }
+
+    .we-offering-crm .card h4 {
+        font-size: 20px
+    }
+
+.erp-service .card-body {
+    width: calc(100% - 16px);
+    border: 1px solid;
+    margin-left: 16px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 80px 15px 15px
+}
+
+.erp-service .card h4 {
+    background: #0f3a43;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 16px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6em;
+    margin: 0;
+    z-index: 10;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    text-align: left;
+    display: flex;
+    align-items: center
+}
+
+    .erp-service .card h4:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -16px;
+        width: 0;
+        border: 8px solid;
+        border-color: #0d6172 #0d6172 transparent transparent
+    }
+
+.erp-service .card img {
+    width: 50px;
+    display: block;
+    margin-right: 10px
+}
+
+.erp-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto
+}
+
+    .erp-img img, .root-to-progress {
+        width: 80%
+    }
+
+.card-bg1 {
+    background: #903f17
+}
+
+.card-bg2 {
+    background: #0c2740
+}
+
+.why-erp .card:hover {
+    box-shadow: 0 0 20px 14px rgb(153 153 153 / 50%)
+}
+
+.why-erp .card p {
+    color: #fff;
+    margin: 0 0 15px
+}
+
+    .why-erp .card p span {
+        font-size: 20px;
+        background: #00accb;
+        padding: 2px 10px;
+        width: 270px;
+        display: inline-block;
+        text-align: center
+    }
+
+.why-erp-box2 {
+    display: flex;
+    justify-content: start;
+    align-items: center
+}
+
+.why-erp-we .row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ffffff87;
+    align-items: center
+}
+
+.why-erp-new-box {
+    background: #fff;
+    padding: 20px 20px 20px 40px;
+    margin: 15px;
+    box-shadow: 0 0 20px #0000002b
+}
+
+    .why-erp-new-box p {
+        margin: 0;
+        text-align: justify
+    }
+
+    .why-erp-new-box h5:after {
+        content: '';
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        background: #cc6aff;
+        left: -27px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        transform: rotate(45deg)
+    }
+
+.erp-industry-box {
+    padding: 30px;
+    background: #034b5a
+}
+
+    .erp-industry-box h4 {
+        position: relative;
+        padding-left: 25px
+    }
+
+.erp-industry-content {
+    box-shadow: 1px 1px 20px 1px #e6e6e6;
+    background-color: #fff;
+    padding: 25px 20px
+}
+
+    .erp-industry-content p {
+        padding-left: 25px;
+        color: #000;
+        margin: 0
+    }
+
+.bullet {
+    position: absolute;
+    left: 0;
+    top: -10px;
+    background: #f26622;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: none;
+    justify-content: center;
+    align-items: center
+}
+
+.erp-industry-ul {
+    list-style: disc;
+    padding-left: 40px;
+    color: #000
+}
+
+    .erp-industry-ul li span {
+        width: 50px;
+        height: 50px;
+        background: #f26622
+    }
+
+.erp-industry .erp-icon {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    box-shadow: 1px 1px 20px 1px #e6e6e6;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+    .erp-industry .erp-icon img {
+        width: 80px;
+        height: 80px
+    }
+
+.smart-contract-services .div-line .row:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 80%;
+    height: 1px;
+    background: #f26622
+}
+
+.smart-contract-services .pointer {
+    position: absolute;
+    right: 0;
+    bottom: -35px;
+    left: 0;
+    margin: auto;
+    background: #fff;
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+    padding: 5px 0 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%
+}
+
+    .smart-contract-services .pointer img {
+        width: 45px
+    }
+
+.smart-contract-services .div-line:before {
+    content: '';
+    height: 100%;
+    width: 1px;
+    background: #f26622;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+.smart-contract-services .card {
+    -webkit-box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+    box-shadow: none;
+    border: 0
+}
+
+.ido-services .card, .nft-market-ser .card:hover {
+    -webkit-box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%)
+}
+
+.smart-contract-services .card .card-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    justify-content: start
+}
+
+.smart-contract-services .card img {
+    width: 50px;
+    margin-right: 10px
+}
+
+.smart-contract-indrustry {
+    background: #eff2f5
+}
+
+.smart-contract-process {
+    background: #e8f5ff6e
+}
+
+    .institute-erp-feature .col-lg-3, .smart-contract-process ul {
+        padding: 0
+    }
+
+        .smart-contract-process ul li {
+            list-style-type: none;
+            position: relative;
+            width: 6px;
+            margin: 0 auto;
+            padding-top: 50px;
+            background: #1c3b58
+        }
+
+            .smart-contract-process ul li::after {
+                content: "";
+                position: absolute;
+                left: 50%;
+                bottom: -15px;
+                transform: translateX(-50%);
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                background: inherit;
+                z-index: 1
+            }
+
+            .smart-contract-process ul li:first-child:after {
+                background-image: url(../img/smart-process1.svg);
+                background-size: 40px;
+                background-position: 13px center;
+                background-repeat: no-repeat
+            }
+
+            .smart-contract-process ul li:nth-child(2):after {
+                background-image: url(../img/smart-process2.svg);
+                background-size: 40px;
+                background-position: center;
+                background-repeat: no-repeat
+            }
+
+            .smart-contract-process ul li:nth-child(3):after {
+                background-image: url(../img/smart-process3.svg);
+                background-size: 40px;
+                background-position: 13px center;
+                background-repeat: no-repeat
+            }
+
+            .smart-contract-process ul li:nth-child(4):after {
+                background-image: url(../img/smart-process4.svg);
+                background-size: 40px;
+                background-position: center;
+                background-repeat: no-repeat
+            }
+
+            .smart-contract-process ul li div {
+                position: relative;
+                bottom: 0;
+                width: 400px;
+                padding: 15px;
+                background: #1c3b58
+            }
+
+                .smart-contract-process ul li div::before {
+                    content: "";
+                    position: absolute;
+                    bottom: 7px;
+                    width: 0;
+                    height: 0;
+                    border-style: solid
+                }
+
+            .smart-contract-process ul li:nth-child(odd) div {
+                left: 45px
+            }
+
+                .smart-contract-process ul li:nth-child(odd) div::before {
+                    left: -15px;
+                    border-width: 8px 16px 8px 0;
+                    border-color: transparent #1c3b58 transparent transparent
+                }
+
+            .smart-contract-process ul li:nth-child(2n) div {
+                left: -439px
+            }
+
+                .smart-contract-process ul li:nth-child(2n) div::before {
+                    right: -15px;
+                    border-width: 8px 0 8px 16px;
+                    border-color: transparent transparent transparent #1c3b58
+                }
+
+            .smart-contract-process ul li time {
+                display: block;
+                font-size: 1.2rem;
+                font-weight: 700;
+                margin-bottom: 8px;
+                color: #e7e7e7
+            }
+
+.our-process-border:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60px;
+    width: 89%;
+    height: 1px;
+    border: 1px dashed #182d41;
+    margin: auto;
+    z-index: -1
+}
+
+.process-box h4 {
+    font-size: 15px;
+    text-align: center
+}
+
+.process-box span {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto 10px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom,#ba4912 65%,#182d41);
+    font-size: 60px;
+    color: #fff
+}
+
+.ido-services .card {
+    box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+    transition: .3s ease-in-out;
+    z-index: 1
+}
+
+.ido-services .ido-count {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background: #221950;
+    color: #fff;
+    opacity: .2;
+    z-index: -1;
+    transition: .3s ease-in-out;
+    opacity: .6;
+    border-style: dotted
+}
+
+.ido-services .card:hover .ido-count {
+    height: 100%;
+    width: 100%;
+    opacity: .15;
+    font-size: 40px;
+    border-radius: 0
+}
+
+.ido-services .card img {
+    width: 90px;
+    margin-right: 10px
+}
+
+.ido-launch .card {
+    box-shadow: 10px 11px 18.8px 1.2px rgb(30 33 62 / 6%);
+    border-radius: 10px;
+    border: 0
+}
+
+.ido-table table {
+    box-shadow: 5px 5px 16px 8px #00000024;
+    margin: 30px auto
+}
+
+.ido-table td, .ido-table th {
+    border: 1px solid #ffffff4a;
+    border-collapse: collapse;
+    color: #fff
+}
+
+.ido-table th {
+    background: #311178;
+    color: #fff;
+    border-color: #ffffff7d
+}
+
+.app-screen {
+    width: 85%
+}
+
+.ido-launchpad-services .ido-count {
+    top: auto;
+    bottom: 0;
+    border-top-left-radius: 15px;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    border-style: none
+}
+
+.ido-launchpad-services .card img {
+    width: 20%;
+    float: left
+}
+
+.ido-launchpad-services .card .img-text {
+    width: 80%;
+    float: right
+}
+
+.our-feature-launchpad {
+    background-color: #f7f7f7
+}
+
+.ido-launch-box, .what-can {
+    background-color: #fff;
+    position: relative
+}
+
+.ido-launch-box {
+    padding: 15px 0;
+    z-index: 1;
+    border: 1px solid #ccc;
+    box-shadow: rgba(50,50,93,.25) 0 2px 5px -1px,rgba(0,0,0,.3) 0 1px 3px -1px;
+    margin-bottom: 30px;
+    border-radius: 4px
+}
+
+    .ido-launch-box:hover img {
+        transform: scale(1.2);
+        transition: .5s ease-in-out
+    }
+
+    .ido-launch-box:after {
+        content: '';
+        position: absolute;
+        right: -10px;
+        top: -10px;
+        width: 90px;
+        height: 90px;
+        background: #221950;
+        z-index: -2;
+        border-bottom-left-radius: 99%
+    }
+
+    .ido-launch-box:hover:after {
+        visibility: visible;
+        opacity: 1
+    }
+
+    .ido-launch-box img {
+        width: 45px;
+        position: absolute;
+        top: 3px;
+        right: 2px;
+        z-index: -1;
+        filter: brightness(100)
+    }
+
+    .ido-launch-box .launch-text {
+        color: #000;
+        padding: 0 40px 0 18px
+    }
+
+.what-can {
+    -webkit-box-shadow: 0 0 10px rgb(0 0 0 / 40%);
+    box-shadow: 0 0 10px rgb(0 0 0 / 40%);
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom: 80px;
+    height: 100%
+}
+
+    .icon-token-box, .what-can:before {
+        background-color: #221950;
+        bottom: 0
+    }
+
+    .what-can:before {
+        position: absolute;
+        content: "";
+        top: 0;
+        left: -8px;
+        right: 0;
+        margin: 0 auto !important;
+        width: 105%;
+        height: 60px;
+        border-radius: 10px 10px 0 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        color: #fff;
+        font-size: 21px;
+        font-weight: 600;
+        -webkit-box-shadow: 0 3px 5px rgb(0 0 0 / 50%);
+        box-shadow: 0 3px 5px rgb(0 0 0 / 50%)
+    }
+
+.ido-feature-1:before, .ido-feature-2:before {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0
+}
+
+.ido-feature-1:before {
+    top: 79px;
+    right: -10px;
+    border-left: 9px solid #000;
+    border-bottom: 9px solid transparent
+}
+
+.ido-feature-2:before {
+    top: -10px;
+    right: 79px;
+    border-bottom: 9px solid #000;
+    border-left: 10px solid transparent
+}
+
+.benefit-one:before {
+    content: 'Fair Fundraising Methodology'
+}
+
+.benefit-two:before {
+    content: 'Cost Effective'
+}
+
+.benefit-three:before {
+    content: 'Quick Trading'
+}
+
+.benefit-four:before {
+    content: 'Immediate Liquidity '
+}
+
+.what-can-shape1:before, .what-can-shape:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-bottom: 9px solid transparent;
+    position: absolute
+}
+
+.what-can-shape:before {
+    top: 60px;
+    left: -8px;
+    border-right: 9px solid #000
+}
+
+.what-can-shape1:before {
+    top: 59px;
+    right: -9px;
+    border-left: 9px solid #000
+}
+
+.content-what-can {
+    padding: 70px 20px 15px
+}
+
+    .content-what-can h3, .defi-exchange-ser .row {
+        margin-top: 60px
+    }
+
+.icon-token-box {
+    display: block;
+    padding: 10px 0;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    position: absolute;
+    width: 100%
+}
+
+    .icon-token-box span {
+        width: 60px;
+        height: 60px;
+        padding: 8px;
+        color: #000;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        border: 3px solid #fff;
+        -webkit-box-shadow: 0 0 0 #fff;
+        box-shadow: 0 0 0 #fff;
+        margin: 0 auto
+    }
+
+.single-services-box {
+    -webkit-box-shadow: 0 0 20px 3px rgba(0,0,0,.05);
+    box-shadow: 0 0 20px 3px rgba(0,0,0,.05);
+    background-color: #fff;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    -webkit-transition: .5s;
+    transition: .5s;
+    border-radius: 10px
+}
+
+    .single-services-box .service-icon {
+        position: absolute;
+        display: inline-block;
+        right: -20px;
+        margin: auto;
+        top: -50px
+    }
+
+    .single-services-box .icon-img {
+        position: absolute;
+        top: 5px;
+        left: 15px;
+        right: 0;
+        width: 60px;
+        height: 100%;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        z-index: 1;
+        font-size: 60px;
+        color: #1c85de
+    }
+
+    .single-services-box .icon .services-icon-shape-1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        -webkit-transition: .5s;
+        transition: .5s
+    }
+
+    .single-services-box .icon .services-icon-shape-2 {
+        -webkit-transition: .5s;
+        transition: .5s
+    }
+
+    .single-services-box .services-box-shape {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: -1
+    }
+
+        .single-services-box .services-box-shape img {
+            width: 100%;
+            height: 100px;
+            object-fit: cover;
+            display: none
+        }
+
+    .consulting-help .card:hover, .single-services-box:hover {
+        -webkit-transform: translateY(-5px);
+        transform: translateY(-5px)
+    }
+
+.defi-exchange-ul ul li {
+    flex: 1 1 auto;
+    text-align: center;
+    margin: 10px 0;
+    border-right: 1px solid #d5d5d5
+}
+
+    .defi-exchange-ul ul li:last-child {
+        border-color: transparent
+    }
+
+.why-us-defi-exchange .card ul {
+    color: #fff;
+    padding-left: 15px;
+    list-style: circle
+}
+
+.bitcoin-services .card img, .why-us-defi-exchange .card img {
+    width: 80px
+}
+
+.nft-market-ser .card {
+    border-radius: 10px;
+    padding: 20px;
+    transition: .2s ease-in-out
+}
+
+    .nft-market-ser .card:hover {
+        box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%)
+    }
+
+    .nft-market-ser .card p {
+        margin-top: 5px
+    }
+
+    .nft-market-ser .card .img-span {
+        border-right: 1px solid #7a7a7a
+    }
+
+    .nft-market-ser .card img {
+        width: 60px;
+        margin-right: 15px
+    }
+
+    .nft-market-ser .card h5 {
+        margin: 0;
+        padding-left: 15px
+    }
+
+.we-create-nft h3 {
+    margin-bottom: 45px
+}
+
+.we-create-nft .card {
+    -webkit-box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+    box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+    padding: 40px 20px 20px;
+    border: 1px solid #f26622
+}
+
+    .we-create-nft .card .market-icon {
+        position: absolute;
+        left: 20px;
+        top: -40px;
+        background: #fff;
+        width: 80px;
+        height: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%
+    }
+
+        .we-create-nft .card .market-icon img {
+            width: 65px
+        }
+
+.nft-other-feature .card {
+    padding: 10px 0 10px 70px;
+    transition: .3s ease-in-out
+}
+
+.crm-lead-feature-box {
+    border: 1px solid #00000030;
+    padding: 20px;
+    border-radius: 5px
+}
+
+    .crm-lead-feature-box img {
+        width: 65px;
+        margin-bottom: 15px
+    }
+
+.crm-lead-work {
+    background: url(../img/crm-lead-process-bg.svg) left center/cover #0e3942;
+    z-index: 1;
+    position: relative
+}
+
+    .crm-lead-work:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: rgba(0,0,0,.4);
+        width: 100%;
+        height: 100%;
+        z-index: -1
+    }
+
+.crm-lead-work-box {
+    text-align: center;
+    background: #111633;
+    padding: 15px 30px
+}
+
+    .crm-lead-work-box p {
+        color: #fff;
+        text-align: left
+    }
+
+    .crm-lead-work-box img {
+        width: 80px;
+        margin-bottom: 15px
+    }
+
+.consulting-help {
+    background: #f8f8f8
+}
+
+    .consulting-help .card {
+        -webkit-box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+        box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+        -webkit-transition: .3s;
+        transition: .3s
+    }
+
+.crypto-consultation-service .card, .crypto-mlm-ser .card {
+    z-index: 1;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%);
+    overflow: hidden;
+    border-top-right-radius: 30px
+}
+
+.consulting-help-img {
+    flex: 40%;
+    align-items: center;
+    display: flex;
+    margin-right: 10px;
+    position: relative
+}
+
+.consulting-help .card img {
+    width: 80px;
+    max-width: unset;
+    position: absolute;
+    left: -46px
+}
+
+.crypto-consultation-service .card {
+    position: relative
+}
+
+    .crypto-consultation-service .card:after {
+        position: absolute;
+        content: '';
+        height: 30px;
+        width: 100%;
+        background-color: #4b21ab78;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: -13px;
+        z-index: -2;
+        border-radius: 50%
+    }
+
+.crypto-consultation-service .card-body {
+    padding: 20px 15px
+}
+
+.crypto-consultation-service .card:hover .shape {
+    opacity: .8
+}
+
+.crypto-consultation-service .card .shape {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+    height: auto;
+    opacity: .2;
+    z-index: -1;
+    transition: .3s ease-in-out
+}
+
+.crypto-consultation-service .card img {
+    width: 70px;
+    height: 70px
+}
+
+.crypto-consultation-service .card p {
+    margin: 0;
+    color: #000
+}
+
+.Consultation-provide {
+    display: flex;
+    justify-content: space-between
+}
+
+.consultation-parent {
+    border: 2px solid #f26622;
+    border-radius: 5px
+}
+
+.crypto-consultation-our-feature {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center
+}
+
+.consultation-feature-box {
+    padding: 20px;
+    background: #121246;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ffffff29;
+    box-shadow: 0 8px 30px rgb(255 255 255 / 5%);
+    border-radius: 5px
+}
+
+.crypto-mlm-ser .card {
+    transition: .3s ease-in-out
+}
+
+    .crypto-mlm-ser .card:hover {
+        transform: translateY(-15px)
+    }
+
+    .crypto-mlm-ser .card .top-img-parent {
+        display: flex;
+        justify-content: start;
+        align-items: center
+    }
+
+    .crypto-mlm-ser .card:hover .watermark-img, .token-dev-type .card:hover:before {
+        opacity: 0
+    }
+
+    .crypto-mlm-ser .card .watermark-img {
+        width: 150px;
+        height: 150px;
+        position: absolute;
+        right: 20px;
+        top: -60px;
+        opacity: .1;
+        z-index: -1;
+        transition: .3s ease-in-out
+    }
+
+.crypto-mlm-contract .card {
+    box-shadow: 0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
+    transition: .3s cubic-bezier(.25,.8,.25,1)
+}
+
+    .crypto-mlm-contract .card .card-body {
+        background: #fff
+    }
+
+    .crypto-mlm-contract .card:hover {
+        box-shadow: 0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22)
+    }
+
+    .crypto-mlm-contract .card .top-img-parent {
+        margin: 0 auto 20px;
+        width: 80px;
+        height: 80px;
+        display: block;
+        padding: 12px;
+        border-radius: 5px;
+        position: relative;
+        z-index: 1
+    }
+
+        .crypto-mlm-contract .card .top-img-parent:after {
+            content: '';
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            right: 0;
+            top: 0;
+            background-image: -webkit-gradient(linear,left top,right top,from(#fd5075),to(#ffa66c));
+            background-image: linear-gradient(to bottom,#092a49,#f26622);
+            z-index: -1;
+            border-radius: 5px;
+            transform: rotate(45deg);
+            transition: .3s ease-in-out
+        }
+
+    .crypto-mlm-contract .card:hover .top-img-parent:after {
+        transform: rotate(0)
+    }
+
+.crypto-mlm-reason ul li {
+    margin: 0 10px 10px 0;
+    border-radius: 5px;
+    color: #fff;
+    padding: 15px 15px 15px 35px;
+    float: left;
+    position: relative;
+    z-index: 1;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    width: 100%;
+    background-color: #142d47;
+    background: linear-gradient(45deg,#0e2b48 50%,#e86323 100%)
+}
+
+    .crypto-mlm-reason ul li:after {
+        content: '';
+        background-image: url(../img/crypto-mlm-arrow.svg);
+        background-size: 25px 25px;
+        background-repeat: no-repeat;
+        position: absolute;
+        left: 8px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        width: 25px;
+        height: 25px
+    }
+
+.bitcoin-services .card {
+    background-image: url(../img/web_devlop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%)
+}
+
+    .bitcoin-services .card .bitcoin-shape {
+        position: relative;
+        z-index: 1;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        left: 15px
+    }
+
+.custom-alt-ser .card:after, .custom-alt-ser .card:before {
+    width: 125px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: ''
+}
+
+.card-title .title-text {
+    padding-left: 40px
+}
+
+.bitcoin-services .card:hover .shape-one {
+    animation: 6s linear infinite rotateme
+}
+
+.bitcoin-services .card .bitcoin-shape .shape-one {
+    left: -16px;
+    top: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    width: 90px;
+    bottom: 0;
+    margin: auto;
+    transition: .3s;
+    pointer-events: none
+}
+
+.bitcoin-services .card .card-title {
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center
+}
+
+.bitcoin-feature .card {
+    border-radius: 0
+}
+
+.bitcoin-feature .ico-token-logo {
+    border: 0;
+    display: block;
+    border-radius: 50%;
+    padding: 0;
+    box-shadow: 0 20px 30px -20px hsl(229deg 6% 66%);
+    width: 65px;
+    height: 65px
+}
+
+.custom-alt-ser .card, .erp-school-ser .card {
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%)
+}
+
+    .custom-alt-ser .card:after {
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-image: url(../img/altcoin-shape1.png);
+        z-index: -1
+    }
+
+    .custom-alt-ser .card:before {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        background-image: url(../img/altcoin-shape2.png);
+        z-index: -1
+    }
+
+    .custom-alt-ser .card img, .erp-school-ser .card img {
+        width: 50px;
+        margin-right: 8px
+    }
+
+.crypto-process-bg {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: .5s ease-in-out;
+    overflow: hidden;
+    border-right: 1px solid #343434
+}
+
+.crypto-process-bg1 {
+    background-image: url(../img/network.jpg)
+}
+
+.crypto-process-bg2 {
+    background-image: url(../img/network2.jpg)
+}
+
+.crypto-process-bg3 {
+    background-image: url(../img/network3.jpg)
+}
+
+.crypto-process-bg4 {
+    background-image: url(../img/network4.jpg)
+}
+
+.crypto-process-bg:hover {
+    background-position: right center
+}
+
+.crypto-process-bg .overlay-bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.8);
+    z-index: -1
+}
+
+.crypto-process-bg-two {
+    background: #a34314
+}
+
+.media-img {
+    width: 120px;
+    transition: .3s ease-in-out
+}
+
+.crypto-process-bg h5 {
+    color: #fff;
+    opacity: 1;
+    margin-top: 15px
+}
+
+.crypto-process-bg p {
+    color: #fff;
+    opacity: 1;
+    margin: 0
+}
+
+.altcoin-benifits .altcoin-benifits-box {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px 0;
+    border-radius: 5px;
+    border: 1px solid #000;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+    transition: .3s ease-in-out;
+    box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%)
+}
+
+    .altcoin-benifits .altcoin-benifits-box:after {
+        content: '';
+        position: absolute;
+        left: -35px;
+        top: -30px;
+        width: 70px;
+        height: 70px;
+        background: #1a5a9b;
+        z-index: -1;
+        border-radius: 50%;
+        transition: .3s ease-in-out
+    }
+
+    .altcoin-benifits .altcoin-benifits-box:hover:after {
+        left: 10px;
+        top: 10px;
+        opacity: .5;
+        box-shadow: 0 0 51px 0 rgb(0 0 0)
+    }
+
+.altcoin-benifits img, .reason-shoolerp .card img {
+    width: 60px
+}
+
+.crypto-token-ser .type-of-coin-box .type-img img {
+    margin-right: 10px
+}
+
+.token-dev-type .card {
+    position: relative;
+    -webkit-box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    -moz-box-shadow: 0 0 15px 0 rgba(72,73,121,.15);
+    box-shadow: 0 0 15px 0 rgb(72 73 121 / 15%);
+    transition: .3s ease-in-out;
+    z-index: 1
+}
+
+    .token-dev-type .card:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        width: 100px;
+        height: 100px;
+        background: #092a49;
+        opacity: 1;
+        border-bottom-right-radius: 50%
+    }
+
+    .erp-school-ser .card:after, .token-count:after, .token-dev-type .card:before {
+        width: 100%;
+        height: 100%;
+        content: '';
+        top: 0
+    }
+
+    .erp-school-ser .card:after, .erp-school-ser .card:before, .token-dev-type .card:before {
+        position: absolute;
+        background-size: cover;
+        z-index: -1
+    }
+
+    .token-dev-type .card:before {
+        left: 0;
+        background-image: url(../img/token-card.svg);
+        background-position: left bottom;
+        transition: .3s ease-in-out
+    }
+
+    .token-dev-type .card:hover {
+        transform: translateY(-10px)
+    }
+
+    .token-dev-type .card img {
+        width: 70px;
+        margin-bottom: 10px;
+        position: relative;
+        left: -7px;
+        top: -5px
+    }
+
+    .token-dev-type .card p {
+        color: #000;
+        margin-top: 15px;
+        margin-bottom: 0
+    }
+
+.launch-token .col-lg-6 {
+    padding: 15px 0
+}
+
+.launch-token-box {
+    border-bottom: 1px solid #000;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 10px
+}
+
+.token-count {
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+    color: #fff
+}
+
+    .token-count:after {
+        position: absolute;
+        left: 0;
+        background: #092a49;
+        z-index: -1;
+        transform: rotate(45deg);
+        box-shadow: 6px 6px 0 #f26622
+    }
+
+.crm_email_works:hover, .crm_email_works:hover:before {
+    box-shadow: 0 30px 50px 0 rgb(1 10 64 / 10%)
+}
+
+.erp-school-ser .card .card-title {
+    display: flex;
+    align-items: center;
+    font-size: 18px
+}
+
+.erp-school-ser .card:after {
+    right: 0;
+    background-image: url(../img/school-erp-bg2.svg);
+    background-repeat: no-repeat;
+    opacity: .4
+}
+
+.erp-school-ser .card:before {
+    left: 0;
+    bottom: 0;
+    background-image: url(../img/school-erp-bg.svg);
+    background-repeat: no-repeat;
+    width: 125px;
+    height: 100px;
+    transform: rotate(180deg);
+    opacity: .5
+}
+
+.school-erp-feature .card img {
+    margin: auto auto -30px;
+    width: 70px;
+    position: relative;
+    top: -40px;
+    z-index: 2;
+    border-bottom: 4px solid #f26622;
+    border-radius: 50%
+}
+
+.school-erp-feature .card ul {
+    margin: 0;
+    padding-left: 20px
+}
+
+.school-erp-feature .card .card-body {
+    margin: 20px;
+    border: 4px solid #f266224f;
+    position: relative;
+    background: #fff;
+    border-top: 0
+}
+
+    .school-erp-feature .card .card-body:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 4px;
+        background: #f266224f;
+        width: 42%
+    }
+
+    .school-erp-feature .card .card-body:before {
+        content: '';
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 4px;
+        background: #f266224f;
+        width: 42%
+    }
+
+.school-erp-feature .card {
+    z-index: 1
+}
+
+    .school-erp-feature .card:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(../img/erp-pattern.svg);
+        background-size: cover;
+        background-color: transparent;
+        opacity: .02;
+        z-index: -1
+    }
+
+    .school-erp-feature .card ul li {
+        list-style: disc;
+        color: #000
+    }
+
+.why-shool-erp .content-section-area-about {
+    background-image: url(../img/school-erp.jpg)
+}
+
+.why-shool-erp img {
+    width: 65px;
+    margin-right: 15px;
+    border-left: 3px solid #fff;
+    padding-left: 10px
+}
+
+.why-shool-erp ul {
+    margin: 10px 0;
+    list-style: disc;
+    padding-left: 25px
+}
+
+.why-shool-erp .about-left-hanf {
+    padding: 40px 70px;
+    width: 100%;
+    background-image: url(../img/school-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(-90deg,#1a849b,#0e3942 89%)
+}
+
+    .why-shool-erp .about-left-hanf p {
+        margin-bottom: 0 !important
+    }
+
+.why-shool-erp .box.bg-cello.section-relative h4 {
+    display: flex;
+    align-items: center;
+    font-size: 24px
+}
+
+    .why-shool-erp .box.bg-cello.section-relative h4 span {
+        position: static;
+        width: 40px;
+        height: 40px;
+        background: #0e3942;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        margin-right: 10px
+    }
+
+.reason-shoolerp .card .card-title {
+    padding-left: 85px
+}
+
+.reason-shoolerp .card p {
+    color: #000;
+    margin-top: 35px
+}
+
+.reason-shoolerp .img-tag {
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+    position: relative;
+    z-index: 1
+}
+
+    .reason-shoolerp .img-tag:after {
+        content: '';
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #0e3942;
+        z-index: -1;
+        border-radius: 15px;
+        transition: .3s ease-in-out;
+        opacity: .7
+    }
+
+.reason-scholl-box:hover .img-tag:after {
+    transform: rotate(45deg);
+    opacity: 1
+}
+
+.reason-shoolerp .card .img-tag:before {
+    content: "";
+    width: 100%;
+    height: 20px;
+    bottom: -20px;
+    left: 0;
+    border-top: 20px solid #0e3942;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    position: absolute
+}
+
+.institute-erp-feature .institute-erp-box {
+    padding: 25px 20px;
+    background: #0e3942;
+    position: relative;
+    z-index: 1;
+    overflow: hidden
+}
+
+    .institute-erp-feature .institute-erp-box:after {
+        content: '';
+        position: absolute;
+        left: -80%;
+        top: -5%;
+        width: 100%;
+        height: 100%;
+        background: #f26622;
+        z-index: -1;
+        transform: rotate(45deg);
+        opacity: .5;
+        transition: .3s ease-in-out
+    }
+
+    .institute-erp-feature .institute-erp-box:hover:after {
+        transform: rotate(180deg);
+        left: 0;
+        top: 0
+    }
+
+    .institute-erp-feature .institute-erp-box p {
+        color: #fff;
+        margin: 0
+    }
+
+.institute-erp-box.box-four, .institute-erp-box.box-two {
+    background: #04252c
+}
+
+.why-institue-box {
+    position: relative;
+    box-shadow: 5px 5px 20px 0 rgb(0 0 0 / 10%);
+    padding: 25px 100px 25px 20px;
+    margin: 15px 0;
+    overflow: hidden;
+    z-index: 1
+}
+
+.why-institute-img {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1
+}
+
+    .why-institute-img:after {
+        content: '';
+        position: absolute;
+        width: 150%;
+        height: 300%;
+        background: #04252c;
+        z-index: -1;
+        transform: rotate(30deg);
+        right: -70px
+    }
+
+.why-institue-box.left {
+    padding-left: 120px;
+    padding-right: 20px
+}
+
+    .why-institue-box.left .why-institute-img {
+        right: auto;
+        left: 0
+    }
+
+        .why-institue-box.left .why-institute-img:after {
+            transform: rotate(-30deg);
+            right: auto;
+            left: -70px
+        }
+
+.why-institute-img img {
+    width: 70px;
+    padding-top: 40px
+}
+
+@keyframes border {
+    to {
+        stroke-dashoffset: -800
+    }
+}
+
+.eyarYd a[style] {
+    display: none !important
+}
+
+.whatsapp-btn-btn {
+    cursor: pointer;
+    display: inline-block
+}
+
+.our-service-bx p {
+    font-size: 26px;
+    line-height: normal;
+    text-align: justify;
+    color: #565656
+}
+
+.our-service-bx {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center
+}
+
+section.crm-email-banner-bg {
+    background-color: #1b0940;
+    background-image: url(../img/crm_email_background.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.services_content {
+    display: flex;
+    align-items: center;
+    justify-content: normal;
+    position: relative
+}
+
+    .services_content img {
+        height: 70px;
+        margin-right: 10px;
+        position: absolute;
+        top: -40px;
+        right: -50px
+    }
+
+    .services_content h4 {
+        font-size: 20px;
+        margin-bottom: 0
+    }
+
+.services_content_color {
+    margin-top: 30px
+}
+
+.service_container {
+    box-shadow: rgba(0,0,0,.1) 0 0 5px 0,rgba(0,0,0,.1) 0 0 1px 0;
+    padding: 25px;
+    border-radius: 10px;
+    transition: .35s;
+    border: 1px dashed #f26622b8;
+    background-color: #fff
+}
+
+    .service_container:hover {
+        transform: translate3d(0,10px,50px)
+    }
+
+.crm_email_working {
+    background-image: url(../img/bg-curve.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.email_works_img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center
+}
+
+.email_img {
+    margin-right: 25px;
+    position: relative
+}
+
+    .email_img:before {
+        position: absolute;
+        content: "";
+        width: 1px;
+        height: 60%;
+        background-color: #182d41;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        left: 82px
+    }
+
+.crm_email_works:before, .crm_features_content:before {
+    content: "";
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    position: absolute
+}
+
+.crm_email_works {
+    box-shadow: rgba(0,0,0,.05) 0 1px 2px 0;
+    padding: 20px;
+    border: 1px solid #f2662242;
+    margin-bottom: 30px;
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+    transition: .5s;
+    border-radius: 5px
+}
+
+    .crm_email_works:before {
+        right: 0;
+        width: 0%;
+        height: 4px;
+        background: #182d41;
+        transition: .5s
+    }
+
+    .crm_email_works:hover:before {
+        width: 100%
+    }
+
+.crm_features_content {
+    border: 1px solid #fff;
+    position: relative;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: rgba(0,0,0,.16) 0 1px 4px;
+    overflow: hidden;
+    align-items: center
+}
+
+    .crm_features_content:before {
+        bottom: auto;
+        height: 100%;
+        width: 5px;
+        background-color: #f26622
+    }
+
+    .crm_features_content img {
+        width: 60%;
+        margin: auto;
+        text-align: center;
+        transition: .7s ease-in-out
+    }
+
+    .crm_features_content:hover img {
+        transform: rotateY(360deg)
+    }
+
+.crm_email_benefits {
+    border: 1px solid;
+    border: 1px solid #f2662242;
+    padding: 30px 20px 20px;
+    border-radius: 10px;
+    transition: .3s;
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative
+}
+
+    .crm_email_benefits:hover {
+        box-shadow: 0 0 10px 0
+    }
+
+        .crm_email_benefits:hover .crm_email_benefits_img {
+            left: 5px
+        }
+
+    .crm_email_benefits .crm_email_benefits_img {
+        position: absolute;
+        top: 5px;
+        left: -20px;
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 4px;
+        border: 1px solid #fcd7c5;
+        transition: .5s ease-in-out
+    }
+
+.horizonatl_line {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(136 158 168 / 30%);
+    margin-bottom: 15px;
+    margin-top: 20px
+}
+
+.crm_email_best {
+    padding: 20px;
+    box-shadow: rgba(50,50,93,.25) 0 2px 5px -1px,rgba(0,0,0,.3) 0 1px 3px -1px;
+    border-radius: 5px
+}
+
+.crm-whatsapp-banner-bg {
+    background: url(../img/crm-whatsapp-background-1.jpg)
+}
+
+.crm-whatsap_contents {
+    box-shadow: rgb(50 50 93 / 16%) 0 2px 5px -1px,rgb(0 0 0 / 17%) 0 1px 3px -1px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 20px;
+    position: relative;
+    border: 1px solid #04687321
+}
+
+.whatsapp_img {
+    width: 70px;
+    height: 70px;
+    margin-right: 10px
+}
+
+.crm-whatsap_contents:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -1px;
+    width: 213px;
+    height: 168px;
+    border-radius: 0 30px 74px 37px;
+    z-index: -1;
+    background-image: url(../img/crm_whatsapp_icon-1.png);
+    background-size: cover;
+    transition: .5s ease-in-out;
+    background-repeat: no-repeat
+}
+
+.crm-whatsap_contents:hover:after {
+    width: 100%;
+    height: 100%
+}
+
+.crm_whatsapp_benefit_con {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px
+}
+
+.crm_whatsapp_benefit, .our_process-1 {
+    margin-bottom: 30px;
+    position: relative
+}
+
+.crm_whatsapp_benefit_con span {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #f26622
+}
+
+.crm_whatsapp_benefit {
+    padding: 35px 30px;
+    border-left: 3px solid #28dbd1;
+    border-right: 3px solid #28dbd1;
+    border-radius: 4px;
+    overflow: hidden;
+    transition: .3s;
+    box-shadow: rgba(50,50,93,.25) 0 2px 5px -1px,rgba(0,0,0,.3) 0 1px 3px -1px
+}
+
+    .crm_whatsapp_benefit img {
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        top: 5px;
+        right: 5px;
+        opacity: .5;
+        transition: .4s
+    }
+
+    .crm_whatsapp_benefit:hover img {
+        opacity: 1
+    }
+
+    .crm_whatsapp_benefit:hover {
+        transform: translateY(-5px);
+        box-shadow: none
+    }
+
+.crm-whatsap_heading {
+    background: url(../img/crm_whatsapp_background.svg) center/cover no-repeat;
+    height: 82%;
+    display: flex;
+    align-items: center;
+    box-shadow: rgb(50 50 93 / 16%) 0 2px 5px -1px,rgb(0 0 0 / 17%) 0 1px 3px -1px;
+    border-radius: 5px;
+    border: 1px solid #04687321;
+    padding: 100px
+}
+
+.crm_whatsapp_business ul {
+    margin-left: 30px
+}
+
+    .crm_whatsapp_business ul li::after {
+        content: '';
+        position: absolute;
+        left: -30px;
+        top: -2px;
+        bottom: 0;
+        margin: auto;
+        width: 19px;
+        height: 18px;
+        background-image: url(../img/whats-pointer.svg);
+        background-size: cover
+    }
+
+.crm_whatsapp_img {
+    border-radius: 5px
+}
+
+.a1 {
+    background-color: #eef7ff
+}
+
+.our_process-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: #fff;
+    box-shadow: rgba(0,0,0,.15) 2.4px 2.4px 3.2px;
+    border-radius: 15px;
+    border: 1px solid #ff530073
+}
+
+.Smart_Contract_Development:hover, .digital_submain, .smart_benifit-2 {
+    box-shadow: rgba(50,50,93,.25) 0 2px 5px -1px,rgba(0,0,0,.3) 0 1px 3px -1px
+}
+
+.our_process_1 {
+    padding: 20px 20px 20px 0
+}
+
+.color-1, .color-2, .color-3 {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    display: flex
+}
+
+.color-1, .color-2 {
+    align-items: center;
+    justify-content: center
+}
+
+.color-3 {
+    background-color: #dbf1f4;
+    justify-content: center;
+    align-items: center
+}
+
+.color-4, .color-5, .color-7 {
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    display: flex
+}
+
+.color-4, .color-7 {
+    background-color: #faf5dd;
+    justify-content: center
+}
+
+.color-5 {
+    background-color: #e3ecff;
+    justify-content: center
+}
+
+.color-6 {
+    height: 100%;
+    width: 100%;
+    background-color: #dbf1f4;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.arrow_left, .arrow_right {
+    position: absolute;
+    bottom: -156px;
+    background-repeat: no-repeat;
+    height: 300px
+}
+
+.ourprocess_background {
+    margin: auto;
+    text-align: center;
+    padding-bottom: 20px
+}
+
+.arrow_right {
+    right: -103px;
+    width: 102px !important
+}
+
+.arrow_left {
+    left: -103px
+}
+
+.digital_marketing_help {
+    background: linear-gradient(0deg,#fff,#b1cbf7,#fff)
+}
+
+.digital_submain {
+    border-radius: 5px;
+    position: relative;
+    background-color: #fff
+}
+
+.pattern-layer {
+    background: url(../img/digital-submain-background.png) repeat-x;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animation: 100s linear infinite slide
+}
+
+@keyframes slide {
+    from {
+        background-position: 0 0
+    }
+
+    to {
+        background-position: 1920px 0
+    }
+}
+
+.digital_subhelp {
+    padding: 20px 0;
+    border-radius: 5px;
+    position: relative
+}
+
+    .digital_subhelp:hover .digital_subhelp_icon {
+        transform: scale(.9)
+    }
+
+.digital_subhelp_icon .digital_icon-sem {
+    max-height: 246px
+}
+
+.Digital-marketing-2 {
+    background: url(../img/Digital-marketing-background.png)
+}
+
+.digital_submain ul li {
+    padding: 15px 15px 15px 50px;
+    border: 1px solid #e37018fa;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 15px;
+    background-color: #2f53a7;
+    font-family: 'JOST-LIGHT';
+    position: relative
+}
+
+    .digital_submain ul li:before {
+        position: absolute;
+        content: "";
+        width: 30px;
+        height: 35px;
+        top: 0;
+        left: 10px;
+        bottom: 0;
+        margin: auto;
+        background: url(../img/digital-marketing-sem-1.svg) no-repeat
+    }
+
+.crypto-mlm-reason ul li:before {
+    content: "";
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    background-color: #ccc;
+    position: absolute
+}
+
+.decentralized-mlm-img {
+    max-width: 350px
+}
+
+.advanage-multi-wallet .advanage-multi-wallet-box:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: auto;
+    height: 5px;
+    width: 100%;
+    background-color: #14539a;
+    z-index: -1;
+    transition: .4s
+}
+
+.advanage-multi-wallet .advanage-multi-wallet-box * {
+    transition: .4s
+}
+
+.Smart_Contract_Development {
+    padding: 15px;
+    border: 1px solid #bce6fb;
+    background-color: #dff4ff;
+    border-radius: 5px;
+    height: 100%;
+    transition: .3s ease-in-out
+}
+
+.Smart_one:after, .Smart_two:after {
+    border: 1px solid #bce6fb;
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    transition: .3s ease-in-out;
+    background-color: #dff4ff;
+    content: "";
+    position: absolute
+}
+
+.Smart_Contract_Development p {
+    margin: 10px 0 0
+}
+
+.Smart_one:after {
+    top: 17px;
+    right: 5px;
+    border-bottom: none;
+    border-left: none
+}
+
+.Smart_Contract_Development:hover.Smart_one:after {
+    right: 0
+}
+
+.Smart_two:after {
+    right: 32px;
+    bottom: -10px;
+    border-left: none;
+    border-top: none
+}
+
+.Smart_Contract_Development:hover.Smart_two:after {
+    bottom: -14px
+}
+
+.Smart_four:after {
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: #dff4ff;
+    border: 1px solid #bce6fb;
+    transform: rotate(45deg);
+    left: 5px;
+    bottom: 15px;
+    border-top: none;
+    border-right: none;
+    transition: .3s ease-in-out
+}
+
+.Smart_Contract_Development:hover.Smart_four:after {
+    left: 0
+}
+
+.Smart_Development {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center
+}
+
+.smart_benifit-2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    position: relative;
+    background-color: #dff4ff
+}
+
+    .smart_benifit-2:after {
+        position: absolute;
+        content: "";
+        width: 1px;
+        height: 50%;
+        background-color: #c1c8cf;
+        left: 71px
+    }
+
+    .smart_benifit-2 img {
+        width: 50px;
+        margin-right: 15px
+    }
+
+.calling-btn {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    width: 60px;
+    z-index: 99
+}
+
+.ido-launch ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+    .ido-launch ul li {
+        display: flex;
+        width: 48%;
+        margin: 1%
+    }
+
+        .ido-launch ul li .ido_icon {
+            width: 30%;
+            padding: 10px;
+            text-align: left;
+            background: #163b89;
+            clip-path: polygon(0 0,100% 0%,88% 100%,0% 100%);
+            border-radius: 10px 0 0 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center
+        }
+
+        .ido-launch ul li img {
+            width: 90px;
+            height: 90px
+        }
+
+        .ido-launch ul li .ido_content {
+            width: 70%;
+            padding: 15px 15px 15px 40px;
+            background: rgb(76 39 123 / 8%);
+            clip-path: polygon(5% 0,100% 0%,100% 100%,0% 100%);
+            border-radius: 0 10px 10px 0
+        }
+
+        .ido-launch ul li p strong {
+            display: block;
+            font-size: 20px;
+            border-bottom: 1px solid rgba(36,18,57,.8);
+            text-align: left;
+            padding-bottom: 10px;
+            margin-bottom: 10px
+        }
+
+.ido-table {
+    background-color: #211047;
+    background-image: url(../img/ido-launch-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 50px
+}
+
+    .ido-table:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        opacity: .4;
+        z-index: -1
+    }
+
+.Ourvalues {
+    display: flex;
+    align-content: baseline;
+    justify-content: center;
+    box-shadow: rgba(50,50,93,.25) 0 2px 5px -1px,rgba(0,0,0,.3) 0 1px 3px -1px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 15px
+}
+
+    .Ourvalues img {
+        width: 60px;
+        margin-right: 15px
+    }
+
+.our-value-content p {
+    margin: 0
+}
+
+.why-taksh-about-cintent {
+    padding: 20px 25px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgb(0 0 0 / 15%);
+    margin-bottom: 30px;
+    position: relative
+}
+
+    .why-taksh-about-cintent:before {
+        content: '';
+        position: absolute;
+        left: 30px;
+        right: 30px;
+        bottom: -10px;
+        height: 10px;
+        z-index: 1;
+        border-radius: 0 0 10px 10px;
+        background-color: #F26622;
+        box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+        transition: all 300ms ease
+    }
+
+.why-taksh {
+    background: url(../img/pattern-3.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: .5
+}
+
+.why-taksh-about-2 {
+    background: #00213D;
+    position: relative
+}
+
+.ourvelues-img {
+    width: 65%
+}
+
+.our-value-about-bx-1 p {
+    margin-top: 10px
+}
+
+.one-step {
+    display: flex;
+    justify-content: start;
+    align-items: center
+}
+
+.we-offering-crm .card {
+    position: relative;
+    clip-path: polygon(94% 0,100% 16%,100% 100%,0 100%,0 0);
+    border: 2px solid rgb(24 45 65 / 55%);
+    transition: .3s all ease-in-out;
+    overflow: hidden
+}
+
+    .we-offering-crm .card:hover {
+        box-shadow: inset rgb(50 50 93 / 25%) 0 6px 12px -2px,rgb(0 0 0 / 30%) 0 3px 7px -3px
+    }
+
+    .we-offering-crm .card:after {
+        content: "";
+        position: absolute;
+        top: -1px;
+        right: -1px;
+        width: 0;
+        height: 0;
+        border-bottom: 30px solid #182D41;
+        border-right: 30px solid transparent;
+        box-shadow: rgba(0,0,0,.35) 0 5px 15px
+    }
+
+.crm-solutions {
+    position: relative
+}
+
+    .crm-solutions:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 60%;
+        width: 100%;
+        background-color: #182D41;
+        z-index: -1
+    }
+
+    .crm-solutions:before {
+        background: url(../img/Group-49.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        position: absolute;
+        content: "";
+        top: 0;
+        left: 0;
+        height: 60%;
+        width: 100%;
+        opacity: .3
+    }
+
+.crm-solutions-content {
+    box-shadow: rgba(0,0,0,.25) 0 54px 55px,rgba(0,0,0,.12) 0 -12px 30px,rgba(0,0,0,.12) 0 4px 6px,rgba(0,0,0,.17) 0 12px 13px,rgba(0,0,0,.09) 0 -3px 5px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px
+}
+
+.top-img-parent img {
+    width: 60px;
+    margin-right: 15px
+}
+
+.top-img-parent h5 {
+    margin: 0
+}
+
+.crypto-mlm-ser .card:hover {
+    background-color: #182d41
+}
+
+.crypto-mlm-ser .card, .crypto-mlm-ser .card .top-img-parent h5, .crypto-mlm-ser .card p, .crypto-mlm-ser .card .top-img-parent img, .crypto-mlm-ser .card .card-body hr {
+    transition: .4s all ease-in-out
+}
+
+    .crypto-mlm-ser .card:hover .top-img-parent h5, .crypto-mlm-ser .card:hover p {
+        color: #fff
+    }
+
+    .crypto-mlm-ser .card:hover .top-img-parent img {
+        filter: brightness(100)
+    }
+
+    .crypto-mlm-ser .card:hover .card-body hr {
+        border-top: 1px solid rgb(255 255 255 / 35%)
+    }
+
+.crypto-mlm-reason {
+    background: linear-gradient(to bottom,#fff 0%,#d2ecff 30%,#fff 100%)
+}
+
+.decentralized-reason {
+    background: #fff;
+    box-shadow: 0 2px 38px 3px #0000000f;
+    padding: 30px
+}
+
+.crypto-mlm-ser {
+    background: linear-gradient(to bottom,#fff 0%,#d2ecff 30%,#fff 100%)
+}
+
+.mlm-software {
+    padding: .25rem 1.25rem 1.25rem;
+    border-top-left-radius: 30px;
+    background-color: #6dceff70;
+    box-shadow: rgba(0,0,0,.16) 0 1px 4px
+}
+
+.crypto-mlm-ser .top-img-parent {
+    padding: 1.25rem 1.25rem .6rem
+}
+
+.crypto-mlm-ser .card-body {
+    padding: 0
+}
+
+    .crypto-mlm-ser .card-body hr {
+        margin-top: .5rem;
+        margin-bottom: .5rem
+    }
+
+.caption {
+    text-align: center;
+    transform: translateY(-40px);
+    opacity: 1;
+    transition: .6s
+}
+
+    .caption h3 {
+        font-size: 21px;
+        margin: 0
+    }
+
+    .caption p {
+        font-size: 16px;
+        color: #003b72;
+        margin: 0;
+        font-weight: 700
+    }
+
+    .caption .social-links a {
+        color: #f26622;
+        margin-right: 15px;
+        font-size: 21px
+    }
+
+.social-links a:hover {
+    color: #0c52a1
+}
+
+.meet_team_img {
+    margin: 10px 0
+}
+
+    .meet_team_img img {
+        width: 450px
+    }
+
+.social-menu ul {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    display: flex
+}
+
+    .social-menu ul li {
+        list-style: none;
+        margin: 0 5px;
+        flex: none;
+        width: auto
+    }
+
+        .social-menu ul li i {
+            font-size: 25px;
+            line-height: 40px;
+            transition: .3s;
+            color: #000
+        }
+
+        .social-menu ul li .fab:hover {
+            color: #fff
+        }
+
+        .social-menu ul li a {
+            position: relative;
+            display: block;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: #fff;
+            text-align: center;
+            transition: .6s;
+            box-shadow: 0 5px 4px rgba(0,0,0,.5)
+        }
+
+            .social-menu ul li a:hover {
+                transform: translate(0,-10%)
+            }
+
+        .social-menu ul li:nth-child(1) a:hover {
+            background-color: rgba(0,0,0,.829)
+        }
+
+        .social-menu ul li:nth-child(2) a:hover {
+            background-color: #E4405F
+        }
+
+        .social-menu ul li:nth-child(3) a:hover {
+            background-color: #0077b5
+        }
+
+        .social-menu ul li:nth-child(4) a:hover {
+            background-color: #000
+        }
+
+.team_row_3 {
+    margin-bottom: 60px
+}
+
+.team_row_3_card {
+    position: relative;
+    height: 280px;
+    background: #003b72;
+    padding: 20px;
+    border-radius: 10px
+}
+
+    .team_row_3_card * {
+        color: #fff
+    }
+
+.team_3_profile {
+    position: absolute;
+    right: 50px;
+    top: -20px;
+    background: #f26622;
+    height: 310px;
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    transform: skewX(-10deg)
+}
+
+    .team_3_profile:before {
+        content: '';
+        position: absolute;
+        height: 0;
+        width: 0;
+        top: 0;
+        left: -10px;
+        border-bottom: 20px solid #8a5600;
+        border-left: 10px solid transparent
+    }
+
+    .team_3_profile:after {
+        content: '';
+        position: absolute;
+        height: 0;
+        width: 0;
+        top: 0;
+        right: -10px;
+        border-bottom: 20px solid #8a5600;
+        border-right: 10px solid transparent
+    }
+
+    .team_3_profile img {
+        height: 100%;
+        border-radius: 50%;
+        transform: skewX(10deg);
+        object-fit: cover;
+        border: 6px solid #003b72;
+        box-shadow: 0 4px 8px 2px #003b727d
+    }
+
+.team_row_left .team_3_profile {
+    right: auto;
+    left: 50px
+}
+
+.all_team_img .col-md-6 {
+    margin: 15px 0
+}
+
+.h-border-center:before {
+    margin: auto;
+    right: 0
+}
+
+.list-ft li i {
+    font-size: 15px;
+    width: 1.6em;
+    text-align: center
+}
+
+.team_row_3:last-child {
+    margin-bottom: 0;
+}
+
+.banner_parent {
+    position: relative;
+}
+
+.globe_img {
+    position: absolute;
+}
+
+.our_team_banner {
+    height: 420px;
+}
+
+    .our_team_banner .title-column {
+        padding-top: 100px !important;
+    }
+
+.team_new_card .social-menu {
+    display: flex;
+    align-items: center;
+    margin: 13px 0 10px;
+    justify-content: space-between;
+}
+
+.team_new_card h4 {
+    margin: 0;
+    margin-top: 7px;
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.team_new_card ul {
+    margin: 0;
+}
+
+.team_new_card {
+    background: #003c72;
+    padding: 15px;
+    border-radius: 7px;
+    height: 100%;
+}
+
+    .team_new_card h4 {
+        color: #fff;
+    }
+
+    .team_new_card h6 {
+        color: #fff;
+    }
+
+    .team_new_card p {
+        color: #fff;
+        margin: 0;
+    }
+
+.team_new_row .col-md-4 {
+    margin-bottom: 15px;
+}
+.designation {
+    background: #ff5b00;
+    padding: 7px 10px;
+    border-radius: 3px;
+    text-align: center;
+}

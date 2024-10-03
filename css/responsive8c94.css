@@ -1,0 +1,1009 @@
+@media (max-width: 1199px) {
+    .b-img-parrent {
+        text-align: center;
+    }
+
+    .container.banner_content_four .row {
+        flex-direction: column-reverse;
+    }
+
+    .slide-bg {
+        height: 700px;
+    }
+
+    .banner-info-img {
+        height: 215px;
+        width: auto;
+        margin: auto;
+    }
+
+    ul.carousel-indicators li img {
+        margin: 0;
+    }
+
+    .nav-slider span {
+        display: none;
+    }
+
+    .top-container {
+        margin: 0;
+        max-width: 100%;
+    }
+
+    ul.navbar-nav > li > a {
+        padding: 0 10px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .about-caro-box .h-border {
+        position: absolute;
+        top: 35px;
+        left: 130px;
+    }
+    .digital_submain ul li {
+        height: 84px;
+        padding: 27px 15px 15px 50px;
+    }
+    .digital_submain ul li:last-child {
+        padding: 15px 15px 15px 50px;
+    }
+    .digital_girl_img {
+        order: -1;
+    }
+    .ecommerce-our-feature .featured-item{
+        height:100%;
+    }
+    .single-services-box .service-icon {
+        right: -10px;
+    }
+    .crypto-mlm-ser .card:hover {
+        background: #fff;
+    }
+    .crypto-mlm-ser .card:hover .top-img-parent img{
+        filter:none;
+    }
+        .crypto-mlm-ser .card:hover .top-img-parent h5 {
+            color: #182d41;
+        }
+        .crypto-mlm-ser .card .mlm-software {
+            transition: .4s all ease-in-out;
+        }
+        .crypto-mlm-ser .card:hover .mlm-software {
+            background: #187695;
+        }
+    .token-dev-type .card {
+        height: 100%;
+    }
+    .benefits_coins {
+        display: flex;
+        justify-content: center;
+        padding-top: 0;
+    }
+
+    .we-offering-crm .card {
+        clip-path: polygon(91% 0, 100% 11%, 100% 100%, 0 100%, 0 0);
+    }
+
+    .why-blockchain .card:after {
+        left: -30px;
+    }
+
+    .why-blockchain .card:before {
+        right: -30px;
+    }
+
+    .team_row_3:last-child {
+        margin-bottom: 0;
+    }
+
+    .team_row_3_card {
+        height: auto;
+        padding-top: 260px;
+        margin: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .team_3_profile,
+    .team_row_left .team_3_profile {
+        margin: auto;
+        right: 0;
+        left: 0;
+    }
+
+    .team_3_profile {
+        transform: none;
+        width: 250px;
+        height: 250px;
+    }
+
+        .team_3_profile img {
+            transform: skewX(5deg);
+        }
+
+    .token-count {
+        margin-bottom: 30px;
+    }
+
+    .benifits-coins-box {
+        float: left;
+        margin: 0 10px;
+    }
+
+    .why-inner-content h4,
+    .why-inner-content h5 {
+        font-size: 16px;
+    }
+
+    .re_row {
+        flex-direction: column-reverse;
+    }
+
+    .digital_subhelp_icon {
+        text-align: center;
+    }
+
+        .digital_subhelp_icon img {
+            width: 200px;
+        }
+
+    .erp-industry-content,
+    .nft-market-ser .card,
+    .single-services-box,
+    .we-offering-crm .card {
+        height: 100%;
+    }
+
+    .custom-dropdown-target:hover .dropdown-menu,
+    .drop-menu li > a h5:before,
+    .footer-form-parent,
+    .menu-heading h5:before,
+    .slide-bg p,
+    .smart-contract-services .div-line .row:after,
+    .smart-contract-services .div-line:before,
+    .smart-contract-services .pointer {
+        display: none;
+    }
+
+    .smart-contract-services .card {
+        border-bottom: 1px solid #f26622;
+        padding-bottom: 15px;
+    }
+
+    .crypto-page-exchange-avail .col-lg-4 {
+        margin-top: 40px;
+    }
+
+    .go-corner {
+        padding: 22px;
+    }
+
+    .go-arrow img,
+    .go-corner {
+        width: 25px;
+        height: 25px;
+    }
+
+    .slide-bg h1,
+    .slide-bg h2,
+    .slide-bg h3 {
+        color: #fff;
+    }
+
+    .crm-benefits .row,
+    .margin-left-about {
+        margin: 0;
+    }
+
+    .erp-industry .erp-icon {
+        margin-bottom: 15px;
+    }
+
+    .erp-img,
+    .erp-img img {
+        width: 100%;
+    }
+
+    .story-box .story-box-image {
+        width: 50%;
+    }
+
+    .story-box.description-left .story-box-info {
+        height: auto;
+        width: 70%;
+    }
+
+    .crm-benefits-bg {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .exclusive-exchange-crypto .col-lg-5,
+    .res-two {
+        order: 1;
+    }
+
+    .exclusive-exchange-crypto .col-lg-7,
+    .res-one {
+        order: 2;
+    }
+
+    .cryptopage-why-choose-us .circles ul li span {
+        font-size: 14px;
+    }
+
+    .crypto-page-prelaunching h2 {
+        margin-bottom: 50px;
+    }
+
+    .crypto-page-prelaunching .row .col-lg-4:nth-child(3) .mt-0 {
+        margin-top: 60px !important;
+    }
+
+    .res-row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .arrow-up::before {
+        content: "";
+        position: absolute;
+        top: auto;
+        bottom: -20px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-bottom: 0;
+        border-top: 20px solid #f26622;
+    }
+
+    .navigation_wrp .toggle-menu {
+        display: block;
+        right: 15px;
+        top: 0;
+    }
+
+    .navigation_wrp .navbar-collapse {
+        margin-top: 10px;
+        position: absolute;
+        top: 100%;
+        background: #182d41;
+        z-index: 99;
+        width: 100%;
+        overflow-y: scroll;
+        height: 100vh;
+        padding-bottom: 60px;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 10px 15px !important;
+        border-top: 1px solid #ffffff33;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #fff !important;
+        cursor: pointer;
+    }
+
+    .navigation_wrp .dropdown-menu {
+        width: 100%;
+        left: 0;
+        transform: unset;
+        z-index: 9999999999999999999999;
+    }
+}
+
+@media (max-width: 767px) {
+    
+    .about-caro-box p,
+    .vision-mission-box p,
+    .who-we-are p,
+    section.service_home .card p {
+        text-align: left;
+    }
+
+    .event-block,
+    .event-block .event-block-rotate {
+        transform: rotate(0);
+    }
+
+    .leave-toggle,
+    section.top-socail ul.social-icons [class^="flaticon-"]:before,
+    ul.right-cont [class^="flaticon-"]:before {
+        font-size: 14px;
+    }
+
+    .social-menu ul {
+        margin: 10px 0;
+    }
+
+    footer {
+        padding-bottom: 100px;
+    }
+
+    .calling-btn {
+        width: 40px;
+    }
+
+    a#return-to-top {
+        left: 25px;
+        bottom: 65px;
+    }
+
+    .token-count {
+        margin-bottom: 40px;
+    }
+
+    .bn-list,
+    .nav-slider span,
+    .our_process-1 .arrow_left,
+    .our_process-1 .arrow_right,
+    .pop-up-form .modal-body:before,
+    .slide-bg p,
+    .smart-contract-services .pointer,
+    .type-of-blockchain .card .content .heading-text img,
+    .why-taksh-about img,
+    .why-taksh-about:before,
+    a.banner-call-btn,
+    ul.right-cont span {
+        display: none;
+    }
+
+    [class*="service-card_"] {
+        padding: 15px;
+        margin: 0;
+        overflow: hidden;
+    }
+
+        .contact-us-form,
+        .ecommerce-process-box-parent,
+        [class*="service-card_"] .card-body {
+            padding: 0;
+        }
+
+    .feature-thumb {
+        position: relative;
+        top: unset;
+        left: unset;
+        margin: 15px auto;
+        text-align: center;
+        display: table;
+    }
+
+    .common-inner-header .banner-img,
+    .slide-bg h1,
+    .slide-bg h2,
+    .slide-bg h3 {
+        margin-top: 30px;
+    }
+
+    .title-column {
+        padding-top: 20px;
+    }
+
+    .ecommerce-process-box-parent .ecommerce-industry-box:nth-child(odd) img {
+        margin-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .crypto-solutions img,
+    .ecommerce-process-box-parent .ecommerce-industry-box:nth-child(2n) img,
+    .more-about-crypto img,
+    footer .social-icons {
+        margin-bottom: 15px;
+    }
+
+    .who-we-are p {
+        font-size: 19px;
+    }
+
+    .vision-mission-box {
+        margin-left: 0;
+        padding: 50px 30px 30px;
+    }
+
+    .left_contact_info,
+    .our-mission-vission .col-lg-6 {
+        margin-bottom: 50px;
+    }
+
+        .crypto-page-provide-service .card-block h6,
+        .our-creation p,
+        .our-mission-vission .col-lg-6:last-child {
+            margin-bottom: 0;
+        }
+
+    .vision-mission-box span {
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: -50px;
+    }
+
+    .why-blockchain .card:after,
+    .why-blockchain .card:before {
+        width: 0;
+    }
+
+    .crypto-page-exchange-avail .col-lg-12,
+    .crypto-page-exchange-avail .col-lg-3,
+    .crypto-page-exchange-avail .col-lg-4,
+    .crypto-page-exchange-avail .col-lg-6 {
+        margin: 40px 0;
+    }
+
+    .erp-industry .erp-icon {
+        margin: auto auto 15px;
+    }
+
+    .erp-industry-box h4,
+    .erp-industry-content p {
+        padding-left: 0;
+    }
+
+    .erp-industry-ul,
+    .our_process_1 {
+        padding-left: 20px;
+    }
+
+    .drop-menu ul li,
+    .drop-menu.crm ul li,
+    .ourvelues-img {
+        width: 100%;
+    }
+
+    a .navbar-brand img {
+        width: 150px;
+    }
+
+    .container.banner_content_four .row {
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+
+    .menu-heading h5 {
+        color: #f26622 !important;
+    }
+
+    section.nav_link .col-md-12 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .navigation_wrp a.navbar-brand {
+        padding-left: 15px;
+    }
+
+    section.nav_link {
+        padding: 10px 0;
+    }
+
+    .menu-wrp {
+        position: absolute;
+        top: 125%;
+        width: 100%;
+        left: 0;
+        background: #fff;
+        z-index: 1;
+        display: none;
+    }
+
+    .slide-bg {
+        height: 550px;
+    }
+
+        .slide-bg .d-flex {
+            justify-content: center;
+            margin-bottom: 100px;
+        }
+
+    /*.col-reverse,
+    [class*="banner_content_"] .row,
+    footer .row {
+        flex-direction: column-reverse;
+    }*/
+    
+    .banner_pic {
+        height: 215px;
+        width: auto;
+        margin: 110px auto 0;
+        display: table;
+    }
+
+    .crm_features_content,
+    ul.carousel-indicators {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+    .slide-bg h1,
+    .slide-bg h2,
+    .slide-bg h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    ul.carousel-indicators {
+        bottom: -22px;
+    }
+
+    .content-section-area-about .row,
+    .crypto-process .row,
+    .drop-menu ul {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    ul.carousel-indicators li {
+        height: auto;
+    }
+
+    ul.carousel-indicators [class^="flaticon-"]:before {
+        font-size: 31px;
+        margin: 0;
+    }
+
+    ul.nav_link-wrp {
+        flex-flow: column;
+    }
+
+    .drop-menu ul {
+        flex-flow: column;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    section.about_home_page {
+        text-align: center;
+    }
+
+    .drop-menu {
+        width: 100% !important;
+        min-height: auto !important;
+        box-shadow: none;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    section.about_home_page img {
+        height: 180px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .sampe-pding {
+        padding: 50px 0;
+    }
+
+    .pop-up-form img {
+        height: 170px;
+        display: block;
+        margin: 0 auto;
+    }
+    .pop-up-form [style="min-height:auto"] {
+        flex-wrap: nowrap;
+    }
+    .pop-up-form [style="min-height:auto"] .col-md-2 {
+        width:auto;
+    }
+    .pop-up-form [style="min-height:auto"] img {
+        height: auto;
+    }
+    .pop-up-form .modal-body {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+
+    .crypto-accordian .card-header button {
+        white-space: normal;
+        padding-left: 60px;
+    }
+
+    .crypto-accordian .card-header span {
+        left: 0;
+        top: 0;
+        height: 100%;
+    }
+
+    .about-right-hanf {
+        width: 10%;
+    }
+
+    .about-left-hanf {
+        width: 90%;
+    }
+
+    .crypto-process-bg .overlay-bg {
+        border-bottom: 1px solid #666;
+    }
+
+    .Smart_four:after,
+    .Smart_one:after {
+        border-left: none;
+        border-bottom: 1px solid #bce6fb;
+        bottom: -15px;
+    }
+
+    .custom-order,
+    .res-row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .custom-order-2,
+    .res-one {
+        order: 2;
+    }
+
+    .custom-order-1,
+    .res-two {
+        order: 1;
+    }
+
+    .ITians p {
+        text-align: left;
+        font-size: 22px;
+    }
+
+    .blockchain-services-item .feature-icon {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+
+    .ico-dev-top img {
+        height: auto;
+        width: 100%;
+    }
+
+    .email_marketing_img,
+    .services_content_color {
+        margin-bottom: 30px;
+    }
+
+    .crm_features_content img {
+        width: 25%;
+        margin-bottom: 10px;
+    }
+
+    .crm_email_benefits .crm_email_benefits_img {
+        left: -10px;
+    }
+
+    .crm_whatsapp_business ul li::after {
+        top: -41px;
+    }
+
+    .crm_whatsapp_img {
+        margin-top: 10px;
+    }
+
+    .mrgn-top-mb,
+    .why-taksh-ul {
+        margin-top: 15px;
+    }
+
+    .crm_whatsapp_benefit img {
+        width: 60px;
+        height: 60px;
+    }
+
+    ul.carousel-indicators li img {
+        padding: 7px 0;
+        width: 31px;
+        margin-right: 0;
+    }
+
+    .process_row .col-md-6:nth-child(3) {
+        order: 4;
+    }
+
+    .digital_submain {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .consulting-help .card img {
+        left: -34px;
+    }
+
+    .consulting-help-img {
+        flex: 136%;
+    }
+
+    .crypto-mlm-reason ul li {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .Smart_one:after {
+        border-top: none;
+        right: 32px;
+        top: auto;
+    }
+
+    .Smart_two:after {
+        right: auto;
+        bottom: -15px;
+    }
+
+    .Smart_four:after {
+        border-right: 1px solid #bce6fb;
+        right: 32px;
+        left: auto;
+    }
+
+    .Smart_Contract_Development:hover.Smart_one:after {
+        right: 32px;
+    }
+
+    .Smart_Contract_Development:hover.Smart_two:after {
+        bottom: unset;
+    }
+
+    .Smart_Contract_Development:hover.Smart_four:after {
+        left: unset;
+    }
+
+    .digital_subhelp,
+    .solution-exchange-crypto .col-lg-6 {
+        padding: 20px 0;
+    }
+
+    .ido-launch ul li {
+        display: block;
+        width: 100%;
+        margin: 0 0 30px;
+    }
+
+        .ido-launch ul li .ido_icon {
+            width: 100%;
+            clip-path: none;
+            border-radius: 0;
+        }
+
+        .ido-launch ul li .ido_content {
+            width: 100%;
+            clip-path: none;
+            border-radius: 0;
+            padding: 15px;
+        }
+
+    .event-block {
+        height: auto;
+        width: 90%;
+    }
+
+    .crypto-page-exchange-service .postcard__img_link {
+        height: 130px;
+        width: 100%;
+    }
+
+    .crypto-page-exchange-service .postcard {
+        flex-wrap: wrap;
+    }
+
+    .how-start-ico-funding .card {
+        margin: auto;
+    }
+
+    .cryptopage-why-choose-us .circles ul,
+    .defi-exchange-ul ul {
+        display: block;
+    }
+
+        .cryptopage-why-choose-us .circles ul li {
+            margin: 0 auto 15px;
+            float: none;
+            width: 200px;
+            height: 200px;
+        }
+
+            .cryptopage-why-choose-us .circles ul li:after,
+            .smart-contract-services .div-line .row:after {
+                content: none;
+            }
+
+    section .about-page-header {
+        padding: 75px 0;
+        background-position: 0 0 !important;
+    }
+
+    .contact-us-form h4.mb-5 {
+        margin-bottom: 15px !important;
+    }
+
+    .bitcoin-feature .ico-token-logo,
+    .coins-services .media-img,
+    .crypto-page-provide-service .ico-token-logo,
+    footer button.btn-submit {
+        margin-bottom: 20px;
+    }
+
+    .bitcoin-feature .card-block h5 {
+        margin-bottom: 5px;
+    }
+
+    .serial-number {
+        left: 0;
+    }
+
+    .crypto-page-company p {
+        margin-top: 15px !important;
+        margin-bottom: 0;
+    }
+
+    .crypto-page-prelaunching .mt-card.mt-card-first {
+        margin-top: 0 !important;
+    }
+
+    .crypto-page-prelaunching .row .res-one {
+        margin-top: 70px !important;
+    }
+
+    .arrow-up::before {
+        content: "";
+        position: absolute;
+        top: auto;
+        bottom: -20px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-bottom: 0;
+        border-top: 20px solid #f26622;
+    }
+
+    .form-top-parent-slide {
+        top: 85px;
+    }
+
+        .form-top-parent-slide form .row {
+            flex-wrap: unset;
+        }
+
+            .form-top-parent-slide form .row .col-md-2 {
+                width: auto;
+            }
+
+    .leave-toggle {
+        left: -80px;
+    }
+
+    .defi-exchange-ul ul li {
+        flex: none;
+        border-right: 0;
+        border-bottom: 1px solid #d5d5d5;
+        padding: 20px 0;
+    }
+
+    .why-taksh-ul {
+        padding-left: 15px;
+    }
+
+    .story-box.description-left .story-box-info {
+        height: 100% !important;
+        width: 100% !important;
+        padding: 30px;
+        margin: 0;
+    }
+
+    .story-box .story-box-image {
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+        display: none !important;
+    }
+
+    .about-heading {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .crypto-page-prelaunching .row .col-lg-4:nth-child(2) .res-row .res-two {
+        margin-top: 0 !important;
+    }
+
+    .crypto-page-prelaunching .row .col-lg-4:nth-child(2) .res-row .res-one {
+        margin-top: 60px !important;
+    }
+
+    .cryptopage-why-choose-us .circles ul li {
+        width: 150px;
+        height: 150px;
+    }
+
+    .navbar-expand-md .navbar-collapse {
+        overflow-x: scroll;
+    }
+
+    .navbar-expand-md .navbar-nav {
+        white-space: nowrap;
+        overflow-x: auto;
+    }
+
+    .common-inner-header .banner-img {
+        margin: 30px 0;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .smart-contract-process ul li div {
+        width: 250px;
+    }
+
+    .smart-contract-process ul li:nth-child(2n) div {
+        left: -289px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .smart-contract-process ul li {
+        margin-left: 30px;
+    }
+
+        .smart-contract-process ul li div {
+            width: calc(100vw - 91px);
+        }
+
+        .smart-contract-process ul li:nth-child(2n) div {
+            left: 45px;
+        }
+
+            .smart-contract-process ul li:nth-child(2n) div::before {
+                left: -15px;
+                border-width: 8px 16px 8px 0;
+                border-color: transparent #1c3b58 transparent transparent;
+            }
+}
+
+@media screen and (max-width: 575px) {
+    .benefits-crm-para p {
+        padding-left: 20px;
+    }
+
+        .benefits-crm-para p:after {
+            left: -10px;
+        }
+
+    h1 {
+        font-size: 33px;
+    }
+
+    .mobile-btn-none {
+        display: none;
+    }
+
+    .mobile-btn {
+        display: block;
+        bottom: -15px;
+    }
+
+    .cryptopage-why-choose-us .circles ul li:after {
+        content: none;
+    }
+
+    .we-offering-crm .card {
+        clip-path: polygon(93% 0, 100% 16%, 100% 100%, 0 100%, 0 0);
+    }
+
+        .we-offering-crm .card:after {
+            top: 0;
+            right: 0;
+        }
+}

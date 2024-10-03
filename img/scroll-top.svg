@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="color" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2196F3;}
+	.st1{fill:#1D83D4;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#DEDEDE;}
+</style>
+<g>
+	<path class="st0" d="M7,256c0,137.3,111.7,249,249,249s249-111.7,249-249S393.3,7,256,7S7,118.7,7,256z"/>
+	<path class="st1" d="M7,256c0,137.3,111.7,249,249,249s249-111.7,249-249H7z"/>
+	<path class="st2" d="M385.7,256h-67.4v119.3c0,14.3-11.6,25.9-25.9,25.9h-72.6c-14.3,0-25.9-11.6-25.9-25.9V256h-67.4
+		c-13.7,0-20.7-16.5-11.2-26.4L244.8,94.8c2.9-3.1,7-4.8,11.2-4.8c4.2,0,8.3,1.7,11.2,4.8l129.7,134.9
+		C406.4,239.5,399.4,256,385.7,256z"/>
+	<path class="st3" d="M256,401.3V90c4.2,0,8.3,1.7,11.2,4.8l129.7,134.9c3,3.1,4.3,6.9,4.3,10.7c0,8-6.2,15.7-15.6,15.7h-67.4v119.3
+		c0,14.3-11.6,25.9-25.9,25.9L256,401.3z"/>
+</g>
+</svg>

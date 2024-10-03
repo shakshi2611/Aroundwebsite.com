@@ -1,0 +1,19 @@
+footer {
+    background-color: #00335e;
+    background-image: url(../img/defi-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+ul.list-ft a{
+    color:#fff;
+}
+ul.contact-no-list a{
+    color:#fff;
+}
+footer:before {
+    background: #00000059;
+}
+.copy-right{
+    color:#fff;
+}
